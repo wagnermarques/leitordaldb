@@ -1,0 +1,2295 @@
+[
+  {
+    "id": "cf_art205",
+    "tipo": "artigo",
+    "rotulo": "Art. 205",
+    "rubrica": null,
+    "pai": null,
+    "temas": [
+      "Princípios, Fins e Direito à Educação"
+    ],
+    "versoes": [
+      {
+        "texto": "A educação, direito de todos e dever do Estado e da família, será promovida e incentivada com a colaboração da sociedade, visando ao pleno desenvolvimento da pessoa, seu preparo para o exercício da cidadania e sua qualificação para o trabalho.",
+        "vigenteDesde": "1988-10-05",
+        "vigenteAte": null,
+        "evento": "original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "cf_art206",
+    "tipo": "artigo",
+    "rotulo": "Art. 206",
+    "rubrica": null,
+    "pai": null,
+    "temas": [
+      "Princípios, Fins e Direito à Educação"
+    ],
+    "versoes": [
+      {
+        "texto": "O ensino será ministrado com base nos seguintes princípios:",
+        "vigenteDesde": "1988-10-05",
+        "vigenteAte": null,
+        "evento": "original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "cf_art206_inci",
+    "tipo": "inciso",
+    "rotulo": "I -",
+    "rubrica": null,
+    "pai": "cf_art206",
+    "temas": [
+      "Princípios, Fins e Direito à Educação"
+    ],
+    "versoes": [
+      {
+        "texto": "igualdade de condições para o acesso e permanência na escola;",
+        "vigenteDesde": "1988-10-05",
+        "vigenteAte": null,
+        "evento": "original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "cf_art206_incii",
+    "tipo": "inciso",
+    "rotulo": "II -",
+    "rubrica": null,
+    "pai": "cf_art206",
+    "temas": [
+      "Princípios, Fins e Direito à Educação"
+    ],
+    "versoes": [
+      {
+        "texto": "liberdade de aprender, ensinar, pesquisar e divulgar o pensamento, a arte e o saber;",
+        "vigenteDesde": "1988-10-05",
+        "vigenteAte": null,
+        "evento": "original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "cf_art206_inciii",
+    "tipo": "inciso",
+    "rotulo": "III -",
+    "rubrica": null,
+    "pai": "cf_art206",
+    "temas": [
+      "Princípios, Fins e Direito à Educação"
+    ],
+    "versoes": [
+      {
+        "texto": "pluralismo de idéias e de concepções pedagógicas, e coexistência de instituições públicas e privadas de ensino;",
+        "vigenteDesde": "1988-10-05",
+        "vigenteAte": null,
+        "evento": "original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "cf_art206_inciv",
+    "tipo": "inciso",
+    "rotulo": "IV -",
+    "rubrica": null,
+    "pai": "cf_art206",
+    "temas": [
+      "Princípios, Fins e Direito à Educação"
+    ],
+    "versoes": [
+      {
+        "texto": "gratuidade do ensino público em estabelecimentos oficiais;",
+        "vigenteDesde": "1988-10-05",
+        "vigenteAte": null,
+        "evento": "original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "cf_art206_incv",
+    "tipo": "inciso",
+    "rotulo": "V -",
+    "rubrica": null,
+    "pai": "cf_art206",
+    "temas": [
+      "Princípios, Fins e Direito à Educação",
+      "Profissionais da Educação"
+    ],
+    "versoes": [
+      {
+        "texto": "valorização dos profissionais da educação escolar, garantidos, na forma da lei, planos de carreira, com ingresso exclusivamente por concurso público de provas e títulos, aos das redes públicas;",
+        "vigenteDesde": "2006-01-01",
+        "vigenteAte": null,
+        "evento": "redacao-dada",
+        "origem": "Emenda Constitucional nº 53",
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": [
+      "Inciso com redação dada pela Emenda Constitucional nº 53, de 2006"
+    ]
+  },
+  {
+    "id": "cf_art206_incvi",
+    "tipo": "inciso",
+    "rotulo": "VI -",
+    "rubrica": null,
+    "pai": "cf_art206",
+    "temas": [
+      "Princípios, Fins e Direito à Educação"
+    ],
+    "versoes": [
+      {
+        "texto": "gestão democrática do ensino público, na forma da lei;",
+        "vigenteDesde": "1988-10-05",
+        "vigenteAte": null,
+        "evento": "original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "cf_art206_incvii",
+    "tipo": "inciso",
+    "rotulo": "VII -",
+    "rubrica": null,
+    "pai": "cf_art206",
+    "temas": [
+      "Princípios, Fins e Direito à Educação"
+    ],
+    "versoes": [
+      {
+        "texto": "garantia de padrão de qualidade.",
+        "vigenteDesde": "1988-10-05",
+        "vigenteAte": null,
+        "evento": "original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "cf_art206_incviii",
+    "tipo": "inciso",
+    "rotulo": "VIII -",
+    "rubrica": null,
+    "pai": "cf_art206",
+    "temas": [
+      "Princípios, Fins e Direito à Educação",
+      "Profissionais da Educação"
+    ],
+    "versoes": [
+      {
+        "texto": "piso salarial profissional nacional para os profissionais da educação escolar pública, nos termos de lei federal.",
+        "vigenteDesde": "2006-01-01",
+        "vigenteAte": null,
+        "evento": "incluido",
+        "origem": "Emenda Constitucional nº 53",
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": [
+      "Inciso acrescido pela Emenda Constitucional nº 53, de 2006"
+    ]
+  },
+  {
+    "id": "cf_art206_incix",
+    "tipo": "inciso",
+    "rotulo": "IX -",
+    "rubrica": null,
+    "pai": "cf_art206",
+    "temas": [
+      "Princípios, Fins e Direito à Educação"
+    ],
+    "versoes": [
+      {
+        "texto": "garantia do direito à educação e à aprendizagem ao longo da vida.",
+        "vigenteDesde": "2020-01-01",
+        "vigenteAte": null,
+        "evento": "incluido",
+        "origem": "Emenda Constitucional nº 108",
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": [
+      "Inciso acrescido pela Emenda Constitucional nº 108, de 2020, com produção de efeitos financeiros a partir de 1º/1/2021"
+    ]
+  },
+  {
+    "id": "cf_art206_par_unico",
+    "tipo": "paragrafo",
+    "rotulo": "Parágrafo único",
+    "rubrica": null,
+    "pai": "cf_art206",
+    "temas": [
+      "Princípios, Fins e Direito à Educação",
+      "Profissionais da Educação"
+    ],
+    "versoes": [
+      {
+        "texto": "A lei disporá sobre as categorias de trabalhadores considerados profissionais da educação básica e sobre a fixação de prazo para a elaboração ou adequação de seus planos de carreira, no âmbito da União, dos Estados, do Distrito Federal e dos Municípios.",
+        "vigenteDesde": "2006-01-01",
+        "vigenteAte": null,
+        "evento": "incluido",
+        "origem": "Emenda Constitucional nº 53",
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": [
+      "Parágrafo único acrescido pela Emenda Constitucional nº 53, de 2006"
+    ]
+  },
+  {
+    "id": "cf_art207",
+    "tipo": "artigo",
+    "rotulo": "Art. 207",
+    "rubrica": null,
+    "pai": null,
+    "temas": [
+      "Educação Superior"
+    ],
+    "versoes": [
+      {
+        "texto": "As universidades gozam de autonomia didático-científica, administrativa e de gestão financeira e patrimonial, e obedecerão ao princípio de indissociabilidade entre ensino, pesquisa e extensão.",
+        "vigenteDesde": "1988-10-05",
+        "vigenteAte": null,
+        "evento": "original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "cf_art207_par1",
+    "tipo": "paragrafo",
+    "rotulo": "§ 1º",
+    "rubrica": null,
+    "pai": "cf_art207",
+    "temas": [
+      "Educação Superior"
+    ],
+    "versoes": [
+      {
+        "texto": "É facultado às universidades admitir professores, técnicos e cientistas estrangeiros, na forma da lei.",
+        "vigenteDesde": "1996-01-01",
+        "vigenteAte": null,
+        "evento": "incluido",
+        "origem": "Emenda Constitucional nº 11",
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": [
+      "Parágrafo acrescido pela Emenda Constitucional nº 11, de 1996"
+    ]
+  },
+  {
+    "id": "cf_art207_par2",
+    "tipo": "paragrafo",
+    "rotulo": "§ 2º",
+    "rubrica": null,
+    "pai": "cf_art207",
+    "temas": [
+      "Educação Superior"
+    ],
+    "versoes": [
+      {
+        "texto": "O disposto neste artigo aplica-se às instituições de pesquisa científica e tecnológica.",
+        "vigenteDesde": "1996-01-01",
+        "vigenteAte": null,
+        "evento": "incluido",
+        "origem": "Emenda Constitucional nº 11",
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": [
+      "Parágrafo acrescido pela Emenda Constitucional nº 11, de 1996"
+    ]
+  },
+  {
+    "id": "cf_art208",
+    "tipo": "artigo",
+    "rotulo": "Art. 208",
+    "rubrica": null,
+    "pai": null,
+    "temas": [
+      "Princípios, Fins e Direito à Educação"
+    ],
+    "versoes": [
+      {
+        "texto": "O dever do Estado com a educação será efetivado mediante a garantia de:",
+        "vigenteDesde": "1988-10-05",
+        "vigenteAte": null,
+        "evento": "original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "cf_art208_inci",
+    "tipo": "inciso",
+    "rotulo": "I -",
+    "rubrica": null,
+    "pai": "cf_art208",
+    "temas": [
+      "Princípios, Fins e Direito à Educação"
+    ],
+    "versoes": [
+      {
+        "texto": "educação básica obrigatória e gratuita dos 4 (quatro) aos 17 (dezessete) anos de idade, assegurada inclusive sua oferta gratuita para todos os que a ela não tiveram acesso na idade própria;",
+        "vigenteDesde": "2009-01-01",
+        "vigenteAte": null,
+        "evento": "redacao-dada",
+        "origem": "Emenda Constitucional nº 59",
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": [
+      "Inciso com redação dada pela Emenda Constitucional nº 59, de 2009"
+    ]
+  },
+  {
+    "id": "cf_art208_incii",
+    "tipo": "inciso",
+    "rotulo": "II -",
+    "rubrica": null,
+    "pai": "cf_art208",
+    "temas": [
+      "Princípios, Fins e Direito à Educação"
+    ],
+    "versoes": [
+      {
+        "texto": "progressiva universalização do ensino médio gratuito;",
+        "vigenteDesde": "1996-01-01",
+        "vigenteAte": null,
+        "evento": "redacao-dada",
+        "origem": "Emenda Constitucional nº 14",
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": [
+      "Inciso com redação dada pela Emenda Constitucional nº 14, de 1996"
+    ]
+  },
+  {
+    "id": "cf_art208_inciii",
+    "tipo": "inciso",
+    "rotulo": "III -",
+    "rubrica": null,
+    "pai": "cf_art208",
+    "temas": [
+      "Princípios, Fins e Direito à Educação",
+      "Educação Especial, Bilíngue e Inclusiva"
+    ],
+    "versoes": [
+      {
+        "texto": "atendimento educacional especializado aos portadores de deficiência, preferencialmente na rede regular de ensino;",
+        "vigenteDesde": "1988-10-05",
+        "vigenteAte": null,
+        "evento": "original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "cf_art208_inciv",
+    "tipo": "inciso",
+    "rotulo": "IV -",
+    "rubrica": null,
+    "pai": "cf_art208",
+    "temas": [
+      "Princípios, Fins e Direito à Educação"
+    ],
+    "versoes": [
+      {
+        "texto": "educação infantil, em creche e pré-escola, às crianças até 5 (cinco) anos de idade;",
+        "vigenteDesde": "2006-01-01",
+        "vigenteAte": null,
+        "evento": "redacao-dada",
+        "origem": "Emenda Constitucional nº 53",
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": [
+      "Inciso com redação dada pela Emenda Constitucional nº 53, de 2006"
+    ]
+  },
+  {
+    "id": "cf_art208_incv",
+    "tipo": "inciso",
+    "rotulo": "V -",
+    "rubrica": null,
+    "pai": "cf_art208",
+    "temas": [
+      "Princípios, Fins e Direito à Educação"
+    ],
+    "versoes": [
+      {
+        "texto": "acesso aos níveis mais elevados do ensino, da pesquisa e da criação artística, segundo a capacidade de cada um;",
+        "vigenteDesde": "1988-10-05",
+        "vigenteAte": null,
+        "evento": "original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "cf_art208_incvi",
+    "tipo": "inciso",
+    "rotulo": "VI -",
+    "rubrica": null,
+    "pai": "cf_art208",
+    "temas": [
+      "Princípios, Fins e Direito à Educação"
+    ],
+    "versoes": [
+      {
+        "texto": "oferta de ensino noturno regular, adequado às condições do educando;",
+        "vigenteDesde": "1988-10-05",
+        "vigenteAte": null,
+        "evento": "original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "cf_art208_incvii",
+    "tipo": "inciso",
+    "rotulo": "VII -",
+    "rubrica": null,
+    "pai": "cf_art208",
+    "temas": [
+      "Princípios, Fins e Direito à Educação"
+    ],
+    "versoes": [
+      {
+        "texto": "atendimento ao educando, em todas as etapas da educação básica, por meio de programas suplementares de material didático-escolar, transporte, alimentação e assistência à saúde.",
+        "vigenteDesde": "2009-01-01",
+        "vigenteAte": null,
+        "evento": "redacao-dada",
+        "origem": "Emenda Constitucional nº 59",
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": [
+      "Inciso com redação dada pela Emenda Constitucional nº 59, de 2009"
+    ]
+  },
+  {
+    "id": "cf_art208_par1",
+    "tipo": "paragrafo",
+    "rotulo": "§ 1º",
+    "rubrica": null,
+    "pai": "cf_art208",
+    "temas": [
+      "Princípios, Fins e Direito à Educação"
+    ],
+    "versoes": [
+      {
+        "texto": "O acesso ao ensino obrigatório e gratuito é direito público subjetivo.",
+        "vigenteDesde": "1988-10-05",
+        "vigenteAte": null,
+        "evento": "original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "cf_art208_par2",
+    "tipo": "paragrafo",
+    "rotulo": "§ 2º",
+    "rubrica": null,
+    "pai": "cf_art208",
+    "temas": [
+      "Princípios, Fins e Direito à Educação"
+    ],
+    "versoes": [
+      {
+        "texto": "O não-oferecimento do ensino obrigatório pelo poder público, ou sua oferta irregular, importa responsabilidade da autoridade competente.",
+        "vigenteDesde": "1988-10-05",
+        "vigenteAte": null,
+        "evento": "original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "cf_art208_par3",
+    "tipo": "paragrafo",
+    "rotulo": "§ 3º",
+    "rubrica": null,
+    "pai": "cf_art208",
+    "temas": [
+      "Princípios, Fins e Direito à Educação"
+    ],
+    "versoes": [
+      {
+        "texto": "Compete ao poder público recensear os educandos no ensino fundamental, fazer-lhes a chamada e zelar, junto aos pais ou responsáveis, pela freqüência à escola.",
+        "vigenteDesde": "1988-10-05",
+        "vigenteAte": null,
+        "evento": "original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "cf_art209",
+    "tipo": "artigo",
+    "rotulo": "Art. 209",
+    "rubrica": null,
+    "pai": null,
+    "temas": [
+      "Princípios, Fins e Direito à Educação"
+    ],
+    "versoes": [
+      {
+        "texto": "O ensino é livre à iniciativa privada, atendidas as seguintes condições:",
+        "vigenteDesde": "1988-10-05",
+        "vigenteAte": null,
+        "evento": "original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "cf_art209_inci",
+    "tipo": "inciso",
+    "rotulo": "I -",
+    "rubrica": null,
+    "pai": "cf_art209",
+    "temas": [
+      "Princípios, Fins e Direito à Educação"
+    ],
+    "versoes": [
+      {
+        "texto": "cumprimento das normas gerais da educação nacional;",
+        "vigenteDesde": "1988-10-05",
+        "vigenteAte": null,
+        "evento": "original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "cf_art209_incii",
+    "tipo": "inciso",
+    "rotulo": "II -",
+    "rubrica": null,
+    "pai": "cf_art209",
+    "temas": [
+      "Princípios, Fins e Direito à Educação"
+    ],
+    "versoes": [
+      {
+        "texto": "autorização e avaliação de qualidade pelo poder público.",
+        "vigenteDesde": "1988-10-05",
+        "vigenteAte": null,
+        "evento": "original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "cf_art210",
+    "tipo": "artigo",
+    "rotulo": "Art. 210",
+    "rubrica": null,
+    "pai": null,
+    "temas": [
+      "Educação Básica e Etapas",
+      "Modalidades e Diversidade"
+    ],
+    "versoes": [
+      {
+        "texto": "Serão fixados conteúdos mínimos para o ensino fundamental, de maneira a assegurar formação básica comum e respeito aos valores culturais e artísticos, nacionais e regionais.",
+        "vigenteDesde": "1988-10-05",
+        "vigenteAte": null,
+        "evento": "original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "cf_art210_par1",
+    "tipo": "paragrafo",
+    "rotulo": "§ 1º",
+    "rubrica": null,
+    "pai": "cf_art210",
+    "temas": [
+      "Educação Básica e Etapas",
+      "Modalidades e Diversidade"
+    ],
+    "versoes": [
+      {
+        "texto": "O ensino religioso, de matrícula facultativa, constituirá disciplina dos horários normais das escolas públicas de ensino fundamental.",
+        "vigenteDesde": "1988-10-05",
+        "vigenteAte": null,
+        "evento": "original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "cf_art210_par2",
+    "tipo": "paragrafo",
+    "rotulo": "§ 2º",
+    "rubrica": null,
+    "pai": "cf_art210",
+    "temas": [
+      "Educação Básica e Etapas",
+      "Modalidades e Diversidade"
+    ],
+    "versoes": [
+      {
+        "texto": "O ensino fundamental regular será ministrado em língua portuguesa, assegurada às comunidades indígenas também a utilização de suas línguas maternas e processos próprios de aprendizagem.",
+        "vigenteDesde": "1988-10-05",
+        "vigenteAte": null,
+        "evento": "original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "cf_art211",
+    "tipo": "artigo",
+    "rotulo": "Art. 211",
+    "rubrica": null,
+    "pai": null,
+    "temas": [
+      "Organização e Regime de Colaboração"
+    ],
+    "versoes": [
+      {
+        "texto": "A União, os Estados, o Distrito Federal e os Municípios organizarão em regime de colaboração seus sistemas de ensino.",
+        "vigenteDesde": "1988-10-05",
+        "vigenteAte": null,
+        "evento": "original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "cf_art211_par1",
+    "tipo": "paragrafo",
+    "rotulo": "§ 1º",
+    "rubrica": null,
+    "pai": "cf_art211",
+    "temas": [
+      "Organização e Regime de Colaboração"
+    ],
+    "versoes": [
+      {
+        "texto": "A União organizará o sistema federal de ensino e o dos Territórios, financiará as instituições de ensino públicas federais e exercerá, em matéria educacional, função redistributiva e supletiva, de forma a garantir equalização de oportunidades educacionais e padrão mínimo de qualidade do ensino mediante assistência técnica e financeira aos Estados, ao Distrito Federal e aos Municípios;",
+        "vigenteDesde": "1996-01-01",
+        "vigenteAte": null,
+        "evento": "redacao-dada",
+        "origem": "Emenda Constitucional nº 14",
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": [
+      "Parágrafo com redação dada pela Emenda Constitucional nº 14, de 1996"
+    ]
+  },
+  {
+    "id": "cf_art211_par2",
+    "tipo": "paragrafo",
+    "rotulo": "§ 2º",
+    "rubrica": null,
+    "pai": "cf_art211",
+    "temas": [
+      "Organização e Regime de Colaboração"
+    ],
+    "versoes": [
+      {
+        "texto": "Os Municípios atuarão prioritariamente no ensino fundamental e na educação infantil.",
+        "vigenteDesde": "1996-01-01",
+        "vigenteAte": null,
+        "evento": "redacao-dada",
+        "origem": "Emenda Constitucional nº 14",
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": [
+      "Parágrafo com redação dada pela Emenda Constitucional nº 14, de 1996"
+    ]
+  },
+  {
+    "id": "cf_art211_par3",
+    "tipo": "paragrafo",
+    "rotulo": "§ 3º",
+    "rubrica": null,
+    "pai": "cf_art211",
+    "temas": [
+      "Organização e Regime de Colaboração"
+    ],
+    "versoes": [
+      {
+        "texto": "Os Estados e o Distrito Federal atuarão prioritariamente no ensino fundamental e médio.",
+        "vigenteDesde": "1996-01-01",
+        "vigenteAte": null,
+        "evento": "incluido",
+        "origem": "Emenda Constitucional nº 14",
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": [
+      "Parágrafo acrescido pela Emenda Constitucional nº 14, de 1996"
+    ]
+  },
+  {
+    "id": "cf_art211_par4",
+    "tipo": "paragrafo",
+    "rotulo": "§ 4º",
+    "rubrica": null,
+    "pai": "cf_art211",
+    "temas": [
+      "Organização e Regime de Colaboração"
+    ],
+    "versoes": [
+      {
+        "texto": "Na organização de seus sistemas de ensino, a União, os Estados, o Distrito Federal e os Municípios definirão formas de colaboração, de forma a assegurar a universalização, a qualidade e a equidade do ensino obrigatório.",
+        "vigenteDesde": "2020-01-01",
+        "vigenteAte": null,
+        "evento": "incluido",
+        "origem": "Emenda Constitucional nº 14",
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": [
+      "Parágrafo acrescido pela Emenda Constitucional nº 14, de 1996, e com nova redação dada pela Emenda Constitucional nº 108, de 2020, com produção de efeitos financeiros a partir de 1º/1/2021"
+    ]
+  },
+  {
+    "id": "cf_art211_par5",
+    "tipo": "paragrafo",
+    "rotulo": "§ 5º",
+    "rubrica": null,
+    "pai": "cf_art211",
+    "temas": [
+      "Organização e Regime de Colaboração"
+    ],
+    "versoes": [
+      {
+        "texto": "A educação básica pública atenderá prioritariamente ao ensino regular.",
+        "vigenteDesde": "2006-01-01",
+        "vigenteAte": null,
+        "evento": "incluido",
+        "origem": "Emenda Constitucional nº 53",
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": [
+      "Parágrafo acrescido pela Emenda Constitucional nº 53, de 2006"
+    ]
+  },
+  {
+    "id": "cf_art211_par6",
+    "tipo": "paragrafo",
+    "rotulo": "§ 6º",
+    "rubrica": null,
+    "pai": "cf_art211",
+    "temas": [
+      "Organização e Regime de Colaboração"
+    ],
+    "versoes": [
+      {
+        "texto": "A União, os Estados, o Distrito Federal e os Municípios exercerão ação redistributiva em relação a suas escolas",
+        "vigenteDesde": "2020-01-01",
+        "vigenteAte": null,
+        "evento": "incluido",
+        "origem": "Emenda Constitucional nº 108",
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": [
+      "Parágrafo acrescido pela Emenda Constitucional nº 108, de 2020, com produção de efeitos financeiros a partir de 1º/1/2021"
+    ]
+  },
+  {
+    "id": "cf_art211_par7",
+    "tipo": "paragrafo",
+    "rotulo": "§ 7º",
+    "rubrica": null,
+    "pai": "cf_art211",
+    "temas": [
+      "Organização e Regime de Colaboração"
+    ],
+    "versoes": [
+      {
+        "texto": "O padrão mínimo de qualidade de que trata o § 1º deste artigo considerará as condições adequadas de oferta e terá como referência o Custo Aluno Qualidade (CAQ), pactuados em regime de colaboração na forma disposta em lei complementar, conforme o parágrafo único do art. 23 desta Constituição.",
+        "vigenteDesde": "2020-01-01",
+        "vigenteAte": null,
+        "evento": "incluido",
+        "origem": "Emenda Constitucional nº 108",
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": [
+      "Parágrafo acrescido pela Emenda Constitucional nº 108, de 2020, com produção de efeitos financeiros a partir de 1º/1/2021"
+    ]
+  },
+  {
+    "id": "cf_art212",
+    "tipo": "artigo",
+    "rotulo": "Art. 212",
+    "rubrica": null,
+    "pai": null,
+    "temas": [
+      "Financiamento e Recursos"
+    ],
+    "versoes": [
+      {
+        "texto": "A União aplicará, anualmente, nunca menos de dezoito, e os Estados, o Distrito Federal e os Municípios vinte e cinco por cento, no mínimo, da receita resultante de impostos, compreendida a proveniente de transferências, na manutenção e desenvolvimento do ensino.",
+        "vigenteDesde": "1988-10-05",
+        "vigenteAte": null,
+        "evento": "original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "cf_art212_par1",
+    "tipo": "paragrafo",
+    "rotulo": "§ 1º",
+    "rubrica": null,
+    "pai": "cf_art212",
+    "temas": [
+      "Financiamento e Recursos"
+    ],
+    "versoes": [
+      {
+        "texto": "A parcela da arrecadação de impostos transferida pela União aos Estados, ao Distrito Federal e aos Municípios, ou pelos Estados aos respectivos Municípios, não é considerada, para efeito do cálculo previsto neste artigo, receita do governo que a transferir.",
+        "vigenteDesde": "1988-10-05",
+        "vigenteAte": null,
+        "evento": "original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "cf_art212_par2",
+    "tipo": "paragrafo",
+    "rotulo": "§ 2º",
+    "rubrica": null,
+    "pai": "cf_art212",
+    "temas": [
+      "Financiamento e Recursos"
+    ],
+    "versoes": [
+      {
+        "texto": "Para efeito do cumprimento do disposto no caput deste artigo, serão considerados os sistemas de ensino federal, estadual e municipal e os recursos aplicados na forma do art. 213.",
+        "vigenteDesde": "1988-10-05",
+        "vigenteAte": null,
+        "evento": "original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "cf_art212_par3",
+    "tipo": "paragrafo",
+    "rotulo": "§ 3º",
+    "rubrica": null,
+    "pai": "cf_art212",
+    "temas": [
+      "Financiamento e Recursos"
+    ],
+    "versoes": [
+      {
+        "texto": "A distribuição dos recursos públicos assegurará prioridade ao atendimento das necessidades do ensino obrigatório, no que se refere a universalização, garantia de padrão de qualidade e equidade, nos termos do plano nacional de educação.",
+        "vigenteDesde": "2009-01-01",
+        "vigenteAte": null,
+        "evento": "redacao-dada",
+        "origem": "Emenda Constitucional nº 59",
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": [
+      "Parágrafo com redação dada pela Emenda Constitucional nº 59, de 2009"
+    ]
+  },
+  {
+    "id": "cf_art212_par4",
+    "tipo": "paragrafo",
+    "rotulo": "§ 4º",
+    "rubrica": null,
+    "pai": "cf_art212",
+    "temas": [
+      "Financiamento e Recursos"
+    ],
+    "versoes": [
+      {
+        "texto": "Os programas suplementares de alimentação e assistência à saúde previstos no art. 208, VII, serão financiados com recursos provenientes de contribuições sociais e outros recursos orçamentários.",
+        "vigenteDesde": "1988-10-05",
+        "vigenteAte": null,
+        "evento": "original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "cf_art212_par5",
+    "tipo": "paragrafo",
+    "rotulo": "§ 5º",
+    "rubrica": null,
+    "pai": "cf_art212",
+    "temas": [
+      "Financiamento e Recursos"
+    ],
+    "versoes": [
+      {
+        "texto": "A educação básica pública terá como fonte adicional de financiamento a contribuição social do salário-educação, recolhida pelas empresas na forma da lei.",
+        "vigenteDesde": "2006-01-01",
+        "vigenteAte": null,
+        "evento": "redacao-dada",
+        "origem": "Emenda Constitucional nº 53",
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": [
+      "Parágrafo com redação dada pela Emenda Constitucional nº 53, de 2006"
+    ]
+  },
+  {
+    "id": "cf_art212_par6",
+    "tipo": "paragrafo",
+    "rotulo": "§ 6º",
+    "rubrica": null,
+    "pai": "cf_art212",
+    "temas": [
+      "Financiamento e Recursos"
+    ],
+    "versoes": [
+      {
+        "texto": "As cotas estaduais e municipais da arrecadação da contribuição social do salário-educação serão distribuídas proporcionalmente ao número de alunos matriculados na educação básica nas respectivas redes públicas de ensino.",
+        "vigenteDesde": "2006-01-01",
+        "vigenteAte": null,
+        "evento": "incluido",
+        "origem": "Emenda Constitucional nº 53",
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": [
+      "Parágrafo acrescido pela Emenda Constitucional nº 53, de 2006"
+    ]
+  },
+  {
+    "id": "cf_art212_par7",
+    "tipo": "paragrafo",
+    "rotulo": "§ 7º",
+    "rubrica": null,
+    "pai": "cf_art212",
+    "temas": [
+      "Financiamento e Recursos"
+    ],
+    "versoes": [
+      {
+        "texto": "É vedado o uso dos recursos referidos no caput e nos §§ 5º e 6º deste artigo para pagamento de aposentadorias e de pensões.",
+        "vigenteDesde": "2020-01-01",
+        "vigenteAte": null,
+        "evento": "incluido",
+        "origem": "Emenda Constitucional nº 108",
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": [
+      "Parágrafo acrescido pela Emenda Constitucional nº 108, de 2020, com produção de efeitos financeiros a partir de 1º/1/2021"
+    ]
+  },
+  {
+    "id": "cf_art212_par8",
+    "tipo": "paragrafo",
+    "rotulo": "§ 8º",
+    "rubrica": null,
+    "pai": "cf_art212",
+    "temas": [
+      "Financiamento e Recursos"
+    ],
+    "versoes": [
+      {
+        "texto": "Na hipótese de extinção ou de substituição de impostos, serão redefinidos os percentuais referidos no caput deste artigo e no inciso II do caput do art. 212-A, de modo que resultem recursos vinculados à manutenção e ao desenvolvimento do ensino, bem como os recursos subvinculados aos fundos de que trata o art. 212-A desta Constituição, em aplicações equivalentes às anteriormente praticadas.",
+        "vigenteDesde": "2020-01-01",
+        "vigenteAte": null,
+        "evento": "incluido",
+        "origem": "Emenda Constitucional nº 108",
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": [
+      "Parágrafo acrescido pela Emenda Constitucional nº 108, de 2020, com produção de efeitos financeiros a partir de 1º/1/2021"
+    ]
+  },
+  {
+    "id": "cf_art212_par9",
+    "tipo": "paragrafo",
+    "rotulo": "§ 9º",
+    "rubrica": null,
+    "pai": "cf_art212",
+    "temas": [
+      "Financiamento e Recursos"
+    ],
+    "versoes": [
+      {
+        "texto": "A lei disporá sobre normas de fiscalização, de avaliação e de controle das despesas com educação nas esferas estadual, distrital e municipal.",
+        "vigenteDesde": "2020-01-01",
+        "vigenteAte": null,
+        "evento": "incluido",
+        "origem": "Emenda Constitucional nº 108",
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": [
+      "Parágrafo acrescido pela Emenda Constitucional nº 108, de 2020, com produção de efeitos financeiros a partir de 1º/1/2021"
+    ]
+  },
+  {
+    "id": "cf_art212_a",
+    "tipo": "artigo",
+    "rotulo": "Art. 212-A",
+    "rubrica": null,
+    "pai": null,
+    "temas": [
+      "Financiamento e Recursos"
+    ],
+    "versoes": [
+      {
+        "texto": "Os Estados, o Distrito Federal e os Municípios destinarão parte dos recursos a que se refere o caput do art. 212 desta Constituição à manutenção e ao desenvolvimento do ensino na educação básica e à remuneração condigna de seus profissionais, respeitadas as seguintes disposições:",
+        "vigenteDesde": "2020-01-01",
+        "vigenteAte": null,
+        "evento": "incluido",
+        "origem": "Emenda Constitucional nº 108",
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": [
+      "“ Caput ” do artigo acrescido pela Emenda Constitucional nº 108, de 2020, com produção de efeitos financeiros a partir de 1º/1/2021"
+    ]
+  },
+  {
+    "id": "cf_art212_a_inci",
+    "tipo": "inciso",
+    "rotulo": "I -",
+    "rubrica": null,
+    "pai": "cf_art212_a",
+    "temas": [
+      "Financiamento e Recursos",
+      "Profissionais da Educação"
+    ],
+    "versoes": [
+      {
+        "texto": "a distribuição dos recursos e de responsabilidades entre o Distrito Federal, os Estados e seus Municípios é assegurada mediante a instituição, no âmbito de cada Estado e do Distrito Federal, de um Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação (Fundeb), de natureza contábil;",
+        "vigenteDesde": "2020-01-01",
+        "vigenteAte": null,
+        "evento": "incluido",
+        "origem": "Emenda Constitucional nº 108",
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": [
+      "Inciso acrescido pela Emenda Constitucional nº 108, de 2020, com produção de efeitos financeiros a partir de 1º/1/2021"
+    ]
+  },
+  {
+    "id": "cf_art212_a_incii",
+    "tipo": "inciso",
+    "rotulo": "II -",
+    "rubrica": null,
+    "pai": "cf_art212_a",
+    "temas": [
+      "Financiamento e Recursos"
+    ],
+    "versoes": [
+      {
+        "texto": "os fundos referidos no inciso I do caput deste artigo serão constituídos por 20% (vinte por cento):",
+        "vigenteDesde": "2023-01-01",
+        "vigenteAte": null,
+        "evento": "incluido",
+        "origem": "Emenda Constitucional nº 108",
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": [
+      "Inciso acrescido pela Emenda Constitucional nº 108, de 2020, e com nova redação dada pela Emenda Constitucional nº 132, de 2023"
+    ]
+  },
+  {
+    "id": "cf_art212_a_incii_al_a",
+    "tipo": "alinea",
+    "rotulo": "a)",
+    "rubrica": null,
+    "pai": "cf_art212_a_incii",
+    "temas": [
+      "Financiamento e Recursos"
+    ],
+    "versoes": [
+      {
+        "texto": "das parcelas dos Estados no imposto de que trata o art. 156-A;",
+        "vigenteDesde": "2023-01-01",
+        "vigenteAte": null,
+        "evento": "incluido",
+        "origem": "Emenda Constitucional nº 132",
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": [
+      "Alínea acrescida pela Emenda Constitucional nº 132, de 2023"
+    ]
+  },
+  {
+    "id": "cf_art212_a_incii_al_b",
+    "tipo": "alinea",
+    "rotulo": "b)",
+    "rubrica": null,
+    "pai": "cf_art212_a_incii",
+    "temas": [
+      "Financiamento e Recursos"
+    ],
+    "versoes": [
+      {
+        "texto": "da parcela do Distrito Federal no imposto de que trata o art. 156-A, relativa ao exercício de sua competência estadual, nos termos do art. 156-A, § 2º; e",
+        "vigenteDesde": "2023-01-01",
+        "vigenteAte": null,
+        "evento": "incluido",
+        "origem": "Emenda Constitucional nº 132",
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": [
+      "Alínea acrescida pela Emenda Constitucional nº 132, de 2023"
+    ]
+  },
+  {
+    "id": "cf_art212_a_incii_al_c",
+    "tipo": "alinea",
+    "rotulo": "c)",
+    "rubrica": null,
+    "pai": "cf_art212_a_incii",
+    "temas": [
+      "Financiamento e Recursos"
+    ],
+    "versoes": [
+      {
+        "texto": "dos recursos a que se referem os incisos I, II e III do caput do art. 155, o inciso II do caput do art. 157, os incisos II, III e IV do caput do art. 158 e as alíneas \"a\" e \"b\" do inciso I e o inciso II do caput do art. 159 desta Constituição;",
+        "vigenteDesde": "2023-01-01",
+        "vigenteAte": null,
+        "evento": "incluido",
+        "origem": "Emenda Constitucional nº 132",
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": [
+      "Alínea acrescida pela Emenda Constitucional nº 132, de 2023",
+      "Vide Emenda Constitucional nº 132, de 2023"
+    ]
+  },
+  {
+    "id": "cf_art212_a_inciii",
+    "tipo": "inciso",
+    "rotulo": "III -",
+    "rubrica": null,
+    "pai": "cf_art212_a",
+    "temas": [
+      "Financiamento e Recursos"
+    ],
+    "versoes": [
+      {
+        "texto": "os recursos referidos no inciso II do caput deste artigo serão distribuídos entre cada Estado e seus Municípios, proporcionalmente ao número de alunos das diversas etapas e modalidades da educação básica presencial matriculados nas respectivas redes, nos âmbitos de atuação prioritária, conforme estabelecido nos §§ 2º e 3º do art. 211 desta Constituição, observadas as ponderações referidas na alínea \"a\" do inciso X do caput e no § 2º deste artigo;",
+        "vigenteDesde": "2020-01-01",
+        "vigenteAte": null,
+        "evento": "incluido",
+        "origem": "Emenda Constitucional nº 108",
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": [
+      "Inciso acrescido pela Emenda Constitucional nº 108, de 2020, com produção de efeitos financeiros a partir de 1º/1/2021"
+    ]
+  },
+  {
+    "id": "cf_art212_a_inciv",
+    "tipo": "inciso",
+    "rotulo": "IV -",
+    "rubrica": null,
+    "pai": "cf_art212_a",
+    "temas": [
+      "Financiamento e Recursos"
+    ],
+    "versoes": [
+      {
+        "texto": "a União complementará os recursos dos fundos a que se refere o inciso II do caput deste artigo;",
+        "vigenteDesde": "2020-01-01",
+        "vigenteAte": null,
+        "evento": "incluido",
+        "origem": "Emenda Constitucional nº 108",
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": [
+      "Inciso acrescido pela Emenda Constitucional nº 108, de 2020, com produção de efeitos financeiros a partir de 1º/1/2021"
+    ]
+  },
+  {
+    "id": "cf_art212_a_incv",
+    "tipo": "inciso",
+    "rotulo": "V -",
+    "rubrica": null,
+    "pai": "cf_art212_a",
+    "temas": [
+      "Financiamento e Recursos"
+    ],
+    "versoes": [
+      {
+        "texto": "a complementação da União será equivalente a, no mínimo, 23% (vinte e três por cento) do total de recursos a que se refere o inciso II do caput deste artigo, distribuída da seguinte forma:",
+        "vigenteDesde": "1988-10-05",
+        "vigenteAte": null,
+        "evento": "original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "cf_art212_a_incv_al_a",
+    "tipo": "alinea",
+    "rotulo": "a)",
+    "rubrica": null,
+    "pai": "cf_art212_a_incv",
+    "temas": [
+      "Financiamento e Recursos"
+    ],
+    "versoes": [
+      {
+        "texto": "10 (dez) pontos percentuais no âmbito de cada Estado e do Distrito Federal, sempre que o valor anual por aluno (VAAF), nos termos do inciso III do caput deste artigo, não alcançar o mínimo definido nacionalmente;",
+        "vigenteDesde": "1988-10-05",
+        "vigenteAte": null,
+        "evento": "original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "cf_art212_a_incv_al_b",
+    "tipo": "alinea",
+    "rotulo": "b)",
+    "rubrica": null,
+    "pai": "cf_art212_a_incv",
+    "temas": [
+      "Financiamento e Recursos"
+    ],
+    "versoes": [
+      {
+        "texto": "no mínimo, 10,5 (dez inteiros e cinco décimos) pontos percentuais em cada rede pública de ensino municipal, estadual ou distrital, sempre que o valor anual total por aluno (VAAT), referido no inciso VI do caput deste artigo, não alcançar o mínimo definido nacionalmente;",
+        "vigenteDesde": "1988-10-05",
+        "vigenteAte": null,
+        "evento": "original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "cf_art212_a_incv_al_c",
+    "tipo": "alinea",
+    "rotulo": "c)",
+    "rubrica": null,
+    "pai": "cf_art212_a_incv",
+    "temas": [
+      "Financiamento e Recursos"
+    ],
+    "versoes": [
+      {
+        "texto": "2,5 (dois inteiros e cinco décimos) pontos percentuais nas redes públicas que, cumpridas condicionalidades de melhoria de gestão previstas em lei, alcançarem evolução de indicadores a serem definidos, de atendimento e melhoria da aprendizagem com redução das desigualdades, nos termos do sistema nacional de avaliação da educação básica;",
+        "vigenteDesde": "2020-01-01",
+        "vigenteAte": null,
+        "evento": "incluido",
+        "origem": "Emenda Constitucional nº 108",
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": [
+      "Inciso acrescido pela Emenda Constitucional nº 108, de 2020, com produção de efeitos financeiros a partir de 1º/1/2021"
+    ]
+  },
+  {
+    "id": "cf_art212_a_incvi",
+    "tipo": "inciso",
+    "rotulo": "VI -",
+    "rubrica": null,
+    "pai": "cf_art212_a",
+    "temas": [
+      "Financiamento e Recursos"
+    ],
+    "versoes": [
+      {
+        "texto": "o VAAT será calculado, na forma da lei de que trata o inciso X do caput deste artigo, com base nos recursos a que se refere o inciso II do caput deste artigo, acrescidos de outras receitas e de transferências vinculadas à educação, observado o disposto no § 1º e consideradas as matrículas nos termos do inciso III do caput deste artigo;",
+        "vigenteDesde": "2020-01-01",
+        "vigenteAte": null,
+        "evento": "incluido",
+        "origem": "Emenda Constitucional nº 108",
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": [
+      "Inciso acrescido pela Emenda Constitucional nº 108, de 2020, com produção de efeitos financeiros a partir de 1º/1/2021"
+    ]
+  },
+  {
+    "id": "cf_art212_a_incvii",
+    "tipo": "inciso",
+    "rotulo": "VII -",
+    "rubrica": null,
+    "pai": "cf_art212_a",
+    "temas": [
+      "Financiamento e Recursos"
+    ],
+    "versoes": [
+      {
+        "texto": "os recursos de que tratam os incisos II e IV do caput deste artigo serão aplicados pelos Estados e pelos Municípios exclusivamente nos respectivos âmbitos de atuação prioritária, conforme estabelecido nos §§ 2º e 3º do art. 211 desta Constituição;",
+        "vigenteDesde": "2020-01-01",
+        "vigenteAte": null,
+        "evento": "incluido",
+        "origem": "Emenda Constitucional nº 108",
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": [
+      "Inciso acrescido pela Emenda Constitucional nº 108, de 2020, com produção de efeitos financeiros a partir de 1º/1/2021"
+    ]
+  },
+  {
+    "id": "cf_art212_a_incviii",
+    "tipo": "inciso",
+    "rotulo": "VIII -",
+    "rubrica": null,
+    "pai": "cf_art212_a",
+    "temas": [
+      "Financiamento e Recursos"
+    ],
+    "versoes": [
+      {
+        "texto": "a vinculação de recursos à manutenção e ao desenvolvimento do ensino estabelecida no art. 212 desta Constituição suportará, no máximo, 30% (trinta por cento) da complementação da União, considerados para os fins deste inciso os valores previstos no inciso V do caput deste artigo;",
+        "vigenteDesde": "2020-01-01",
+        "vigenteAte": null,
+        "evento": "incluido",
+        "origem": "Emenda Constitucional nº 108",
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": [
+      "Inciso acrescido pela Emenda Constitucional nº 108, de 2020, com produção de efeitos financeiros a partir de 1º/1/2021"
+    ]
+  },
+  {
+    "id": "cf_art212_a_incix",
+    "tipo": "inciso",
+    "rotulo": "IX -",
+    "rubrica": null,
+    "pai": "cf_art212_a",
+    "temas": [
+      "Financiamento e Recursos"
+    ],
+    "versoes": [
+      {
+        "texto": "o disposto no caput do art. 160 desta Constituição aplica-se aos recursos referidos nos incisos II e IV do caput deste artigo, e seu descumprimento pela autoridade competente importará em crime de responsabilidade;",
+        "vigenteDesde": "2020-01-01",
+        "vigenteAte": null,
+        "evento": "incluido",
+        "origem": "Emenda Constitucional nº 108",
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": [
+      "Inciso acrescido pela Emenda Constitucional nº 108, de 2020, com produção de efeitos financeiros a partir de 1º/1/2021"
+    ]
+  },
+  {
+    "id": "cf_art212_a_incx",
+    "tipo": "inciso",
+    "rotulo": "X -",
+    "rubrica": null,
+    "pai": "cf_art212_a",
+    "temas": [
+      "Financiamento e Recursos"
+    ],
+    "versoes": [
+      {
+        "texto": "a lei disporá, observadas as garantias estabelecidas nos incisos I, II, III e IV do caput e no § 1º do art. 208 e as metas pertinentes do plano nacional de educação, nos termos previstos no art. 214 desta Constituição, sobre:",
+        "vigenteDesde": "1988-10-05",
+        "vigenteAte": null,
+        "evento": "original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "cf_art212_a_incx_al_a",
+    "tipo": "alinea",
+    "rotulo": "a)",
+    "rubrica": null,
+    "pai": "cf_art212_a_incx",
+    "temas": [
+      "Financiamento e Recursos"
+    ],
+    "versoes": [
+      {
+        "texto": "a organização dos fundos referidos no inciso I do caput deste artigo e a distribuição proporcional de seus recursos, as diferenças e as ponderações quanto ao valor anual por aluno entre etapas, modalidades, duração da jornada e tipos de estabelecimento de ensino, observados as respectivas especificidades e os insumos necessários para a garantia de sua qualidade;",
+        "vigenteDesde": "1988-10-05",
+        "vigenteAte": null,
+        "evento": "original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "cf_art212_a_incx_al_b",
+    "tipo": "alinea",
+    "rotulo": "b)",
+    "rubrica": null,
+    "pai": "cf_art212_a_incx",
+    "temas": [
+      "Financiamento e Recursos"
+    ],
+    "versoes": [
+      {
+        "texto": "a forma de cálculo do VAAF decorrente do inciso III do caput deste artigo e do VAAT referido no inciso VI do caput deste artigo;",
+        "vigenteDesde": "1988-10-05",
+        "vigenteAte": null,
+        "evento": "original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "cf_art212_a_incx_al_c",
+    "tipo": "alinea",
+    "rotulo": "c)",
+    "rubrica": null,
+    "pai": "cf_art212_a_incx",
+    "temas": [
+      "Financiamento e Recursos"
+    ],
+    "versoes": [
+      {
+        "texto": "a forma de cálculo para distribuição prevista na alínea \"c\" do inciso V do caput deste artigo;",
+        "vigenteDesde": "1988-10-05",
+        "vigenteAte": null,
+        "evento": "original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "cf_art212_a_incx_al_d",
+    "tipo": "alinea",
+    "rotulo": "d)",
+    "rubrica": null,
+    "pai": "cf_art212_a_incx",
+    "temas": [
+      "Financiamento e Recursos"
+    ],
+    "versoes": [
+      {
+        "texto": "a transparência, o monitoramento, a fiscalização e o controle interno, externo e social dos fundos referidos no inciso I do caput deste artigo, assegurada a criação, a autonomia, a manutenção e a consolidação de conselhos de acompanhamento e controle social, admitida sua integração aos conselhos de educação;",
+        "vigenteDesde": "1988-10-05",
+        "vigenteAte": null,
+        "evento": "original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "cf_art212_a_incx_al_e",
+    "tipo": "alinea",
+    "rotulo": "e)",
+    "rubrica": null,
+    "pai": "cf_art212_a_incx",
+    "temas": [
+      "Financiamento e Recursos"
+    ],
+    "versoes": [
+      {
+        "texto": "o conteúdo e a periodicidade da avaliação, por parte do órgão responsável, dos efeitos redistributivos, da melhoria dos indicadores educacionais e da ampliação do atendimento;",
+        "vigenteDesde": "2020-01-01",
+        "vigenteAte": null,
+        "evento": "incluido",
+        "origem": "Emenda Constitucional nº 108",
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": [
+      "Inciso acrescido pela Emenda Constitucional nº 108, de 2020, com produção de efeitos financeiros a partir de 1º/1/2021"
+    ]
+  },
+  {
+    "id": "cf_art212_a_incxi",
+    "tipo": "inciso",
+    "rotulo": "XI -",
+    "rubrica": null,
+    "pai": "cf_art212_a",
+    "temas": [
+      "Financiamento e Recursos",
+      "Profissionais da Educação"
+    ],
+    "versoes": [
+      {
+        "texto": "proporção não inferior a 70% (setenta por cento) de cada fundo referido no inciso I do caput deste artigo, excluídos os recursos de que trata a alínea \"c\" do inciso V do caput deste artigo, será destinada ao pagamento dos profissionais da educação básica em efetivo exercício, observado, em relação aos recursos previstos na alínea \"b\" do inciso V do caput deste artigo, o percentual mínimo de 15% (quinze por cento) para despesas de capital;",
+        "vigenteDesde": "2020-01-01",
+        "vigenteAte": null,
+        "evento": "incluido",
+        "origem": "Emenda Constitucional nº 108",
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": [
+      "Inciso acrescido pela Emenda Constitucional nº 108, de 2020, com produção de efeitos financeiros a partir de 1º/1/2021"
+    ]
+  },
+  {
+    "id": "cf_art212_a_incxii",
+    "tipo": "inciso",
+    "rotulo": "XII -",
+    "rubrica": null,
+    "pai": "cf_art212_a",
+    "temas": [
+      "Financiamento e Recursos",
+      "Profissionais da Educação"
+    ],
+    "versoes": [
+      {
+        "texto": "lei específica disporá sobre o piso salarial profissional nacional para os profissionais do magistério da educação básica pública;",
+        "vigenteDesde": "2020-01-01",
+        "vigenteAte": null,
+        "evento": "incluido",
+        "origem": "Emenda Constitucional nº 108",
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": [
+      "Inciso acrescido pela Emenda Constitucional nº 108, de 2020, com produção de efeitos financeiros a partir de 1º/1/2021"
+    ]
+  },
+  {
+    "id": "cf_art212_a_incxiii",
+    "tipo": "inciso",
+    "rotulo": "XIII -",
+    "rubrica": null,
+    "pai": "cf_art212_a",
+    "temas": [
+      "Financiamento e Recursos"
+    ],
+    "versoes": [
+      {
+        "texto": "a utilização dos recursos a que se refere o § 5º do art. 212 desta Constituição para a complementação da União ao Fundeb, referida no inciso V do caput deste artigo, é vedada.",
+        "vigenteDesde": "2020-01-01",
+        "vigenteAte": null,
+        "evento": "incluido",
+        "origem": "Emenda Constitucional nº 108",
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": [
+      "Inciso acrescido pela Emenda Constitucional nº 108, de 2020, com produção de efeitos financeiros a partir de 1º/1/2021"
+    ]
+  },
+  {
+    "id": "cf_art212_a_incxiv",
+    "tipo": "inciso",
+    "rotulo": "XIV -",
+    "rubrica": null,
+    "pai": "cf_art212_a",
+    "temas": [
+      "Financiamento e Recursos"
+    ],
+    "versoes": [
+      {
+        "texto": "no exercício de 2025, da complementação de que trata o inciso V do caput , até 10% (dez por cento) dos valores de cada uma das modalidades referidas nesse dispositivo poderão ser repassados pela União para ações de fomento à criação de matrículas em tempo integral na educação básica pública, considerados indicadores de atendimento, melhoria da qualidade e redução de desigualdades, mantida a classificação orçamentária do repasse como Fundeb, não se aplicando, para fins deste inciso, os critérios de que tratam as alíneas \"a\", \"b\" e \"c\" do inciso V deste artigo;",
+        "vigenteDesde": "2024-01-01",
+        "vigenteAte": null,
+        "evento": "incluido",
+        "origem": "Emenda Constitucional nº 135",
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": [
+      "Inciso acrescido pela Emenda Constitucional nº 135, de 2024"
+    ]
+  },
+  {
+    "id": "cf_art212_a_incxv",
+    "tipo": "inciso",
+    "rotulo": "XV -",
+    "rubrica": null,
+    "pai": "cf_art212_a",
+    "temas": [
+      "Financiamento e Recursos"
+    ],
+    "versoes": [
+      {
+        "texto": "a partir do exercício de 2026, no mínimo 4% (quatro por cento) dos recursos dos fundos referidos no inciso I do caput deste artigo serão destinados pelos Estados, pelo Distrito Federal e pelos Municípios à criação de matrículas em tempo integral na educação básica, conforme diretrizes pactuadas entre a União e demais entes da Federação, até o atingimento das metas de educação em tempo integral estabelecidas pelo Plano Nacional de Educação.",
+        "vigenteDesde": "2024-01-01",
+        "vigenteAte": null,
+        "evento": "incluido",
+        "origem": "Emenda Constitucional nº 135",
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": [
+      "Inciso acrescido pela Emenda Constitucional nº 135, de 2024"
+    ]
+  },
+  {
+    "id": "cf_art212_a_par1",
+    "tipo": "paragrafo",
+    "rotulo": "§ 1º",
+    "rubrica": null,
+    "pai": "cf_art212_a",
+    "temas": [
+      "Financiamento e Recursos"
+    ],
+    "versoes": [
+      {
+        "texto": "O cálculo do VAAT, referido no inciso VI do caput deste artigo, deverá considerar, além dos recursos previstos no inciso II do caput deste artigo, pelo menos, as seguintes disponibilidades:",
+        "vigenteDesde": "1988-10-05",
+        "vigenteAte": null,
+        "evento": "original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "cf_art212_a_par1_inci",
+    "tipo": "inciso",
+    "rotulo": "I -",
+    "rubrica": null,
+    "pai": "cf_art212_a_par1",
+    "temas": [
+      "Financiamento e Recursos"
+    ],
+    "versoes": [
+      {
+        "texto": "receitas de Estados, do Distrito Federal e de Municípios vinculadas à manutenção e ao desenvolvimento do ensino não integrantes dos fundos referidos no inciso I do caput deste artigo;",
+        "vigenteDesde": "1988-10-05",
+        "vigenteAte": null,
+        "evento": "original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "cf_art212_a_par1_incii",
+    "tipo": "inciso",
+    "rotulo": "II -",
+    "rubrica": null,
+    "pai": "cf_art212_a_par1",
+    "temas": [
+      "Financiamento e Recursos"
+    ],
+    "versoes": [
+      {
+        "texto": "cotas estaduais e municipais da arrecadação do salário-educação de que trata o § 6º do art. 212 desta Constituição;",
+        "vigenteDesde": "1988-10-05",
+        "vigenteAte": null,
+        "evento": "original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "cf_art212_a_par1_inciii",
+    "tipo": "inciso",
+    "rotulo": "III -",
+    "rubrica": null,
+    "pai": "cf_art212_a_par1",
+    "temas": [
+      "Financiamento e Recursos"
+    ],
+    "versoes": [
+      {
+        "texto": "complementação da União transferida a Estados, ao Distrito Federal e a Municípios nos termos da alínea \"a\" do inciso V do caput deste artigo.",
+        "vigenteDesde": "2020-01-01",
+        "vigenteAte": null,
+        "evento": "incluido",
+        "origem": "Emenda Constitucional nº 108",
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": [
+      "Parágrafo acrescido pela Emenda Constitucional nº 108, de 2020, com produção de efeitos financeiros a partir de 1º/1/2021"
+    ]
+  },
+  {
+    "id": "cf_art212_a_par2",
+    "tipo": "paragrafo",
+    "rotulo": "§ 2º",
+    "rubrica": null,
+    "pai": "cf_art212_a",
+    "temas": [
+      "Financiamento e Recursos"
+    ],
+    "versoes": [
+      {
+        "texto": "Além das ponderações previstas na alínea \"a\" do inciso X do caput deste artigo, a lei definirá outras relativas ao nível socioeconômico dos educandos e aos indicadores de disponibilidade de recursos vinculados à educação e de potencial de arrecadação tributária de cada ente federado, bem como seus prazos de implementação.",
+        "vigenteDesde": "2020-01-01",
+        "vigenteAte": null,
+        "evento": "incluido",
+        "origem": "Emenda Constitucional nº 108",
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": [
+      "Parágrafo acrescido pela Emenda Constitucional nº 108, de 2020, com produção de efeitos financeiros a partir de 1º/1/2021"
+    ]
+  },
+  {
+    "id": "cf_art212_a_par3",
+    "tipo": "paragrafo",
+    "rotulo": "§ 3º",
+    "rubrica": null,
+    "pai": "cf_art212_a",
+    "temas": [
+      "Financiamento e Recursos"
+    ],
+    "versoes": [
+      {
+        "texto": "Será destinada à educação infantil a proporção de 50% (cinquenta por cento) dos recursos globais a que se refere a alínea \"b\" do inciso V do caput deste artigo, nos termos da lei.",
+        "vigenteDesde": "2020-01-01",
+        "vigenteAte": null,
+        "evento": "incluido",
+        "origem": "Emenda Constitucional nº 108",
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": [
+      "Parágrafo acrescido pela Emenda Constitucional nº 108, de 2020, com produção de efeitos financeiros a partir de 1º/1/2021"
+    ]
+  },
+  {
+    "id": "cf_art213",
+    "tipo": "artigo",
+    "rotulo": "Art. 213",
+    "rubrica": null,
+    "pai": null,
+    "temas": [
+      "Financiamento e Recursos"
+    ],
+    "versoes": [
+      {
+        "texto": "Os recursos públicos serão destinados às escolas públicas, podendo ser dirigidos a escolas comunitárias, confessionais ou filantrópicas, definidas em lei, que:",
+        "vigenteDesde": "1988-10-05",
+        "vigenteAte": null,
+        "evento": "original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "cf_art213_inci",
+    "tipo": "inciso",
+    "rotulo": "I -",
+    "rubrica": null,
+    "pai": "cf_art213",
+    "temas": [
+      "Financiamento e Recursos"
+    ],
+    "versoes": [
+      {
+        "texto": "comprovem finalidade não lucrativa e apliquem seus excedentes financeiros em educação;",
+        "vigenteDesde": "1988-10-05",
+        "vigenteAte": null,
+        "evento": "original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "cf_art213_incii",
+    "tipo": "inciso",
+    "rotulo": "II -",
+    "rubrica": null,
+    "pai": "cf_art213",
+    "temas": [
+      "Financiamento e Recursos"
+    ],
+    "versoes": [
+      {
+        "texto": "assegurem a destinação de seu patrimônio a outra escola comunitária, filantrópica ou confessional, ou ao poder público, no caso de encerramento de suas atividades.",
+        "vigenteDesde": "1988-10-05",
+        "vigenteAte": null,
+        "evento": "original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "cf_art213_par1",
+    "tipo": "paragrafo",
+    "rotulo": "§ 1º",
+    "rubrica": null,
+    "pai": "cf_art213",
+    "temas": [
+      "Financiamento e Recursos"
+    ],
+    "versoes": [
+      {
+        "texto": "Os recursos de que trata este artigo poderão ser destinados a bolsas de estudo para o ensino fundamental e médio, na forma da lei, para os que demonstrarem insuficiência de recursos, quando houver falta de vagas e cursos regulares da rede pública na localidade da residência do educando, ficando o poder público obrigado a investir prioritariamente na expansão de sua rede na localidade.",
+        "vigenteDesde": "1988-10-05",
+        "vigenteAte": null,
+        "evento": "original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "cf_art213_par2",
+    "tipo": "paragrafo",
+    "rotulo": "§ 2º",
+    "rubrica": null,
+    "pai": "cf_art213",
+    "temas": [
+      "Financiamento e Recursos"
+    ],
+    "versoes": [
+      {
+        "texto": "As atividades de pesquisa, de extensão e de estímulo e fomento à inovação realizadas por universidades e/ou por instituições de educação profissional e tecnológica poderão receber apoio financeiro do Poder Público.",
+        "vigenteDesde": "2015-03-03",
+        "vigenteAte": null,
+        "evento": "redacao-dada",
+        "origem": "Emenda Constitucional nº 85",
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": [
+      "Parágrafo com redação dada pela Emenda Constitucional nº 85, de 2015, republicada no DOU de 3/3/2015"
+    ]
+  },
+  {
+    "id": "cf_art214",
+    "tipo": "artigo",
+    "rotulo": "Art. 214",
+    "rubrica": null,
+    "pai": null,
+    "temas": [
+      "Organização e Regime de Colaboração",
+      "Financiamento e Recursos"
+    ],
+    "versoes": [
+      {
+        "texto": "A lei estabelecerá o plano nacional de educação, de duração decenal, com o objetivo de articular o sistema nacional de educação em regime de colaboração e definir diretrizes, objetivos, metas e estratégias de implementação para assegurar a manutenção e desenvolvimento do ensino em seus diversos níveis, etapas e modalidades por meio de ações integradas dos poderes públicos das diferentes esferas federativas que conduzam a:",
+        "vigenteDesde": "2009-01-01",
+        "vigenteAte": null,
+        "evento": "redacao-dada",
+        "origem": "Emenda Constitucional nº 59",
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": [
+      "\" Caput \" do artigo com redação dada pela Emenda Constitucional nº 59, de 2009"
+    ]
+  },
+  {
+    "id": "cf_art214_inci",
+    "tipo": "inciso",
+    "rotulo": "I -",
+    "rubrica": null,
+    "pai": "cf_art214",
+    "temas": [
+      "Organização e Regime de Colaboração"
+    ],
+    "versoes": [
+      {
+        "texto": "erradicação do analfabetismo;",
+        "vigenteDesde": "1988-10-05",
+        "vigenteAte": null,
+        "evento": "original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "cf_art214_incii",
+    "tipo": "inciso",
+    "rotulo": "II -",
+    "rubrica": null,
+    "pai": "cf_art214",
+    "temas": [
+      "Organização e Regime de Colaboração"
+    ],
+    "versoes": [
+      {
+        "texto": "universalização do atendimento escolar;",
+        "vigenteDesde": "1988-10-05",
+        "vigenteAte": null,
+        "evento": "original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "cf_art214_inciii",
+    "tipo": "inciso",
+    "rotulo": "III -",
+    "rubrica": null,
+    "pai": "cf_art214",
+    "temas": [
+      "Organização e Regime de Colaboração"
+    ],
+    "versoes": [
+      {
+        "texto": "melhoria da qualidade do ensino;",
+        "vigenteDesde": "1988-10-05",
+        "vigenteAte": null,
+        "evento": "original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "cf_art214_inciv",
+    "tipo": "inciso",
+    "rotulo": "IV -",
+    "rubrica": null,
+    "pai": "cf_art214",
+    "temas": [
+      "Organização e Regime de Colaboração"
+    ],
+    "versoes": [
+      {
+        "texto": "formação para o trabalho;",
+        "vigenteDesde": "1988-10-05",
+        "vigenteAte": null,
+        "evento": "original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "cf_art214_incv",
+    "tipo": "inciso",
+    "rotulo": "V -",
+    "rubrica": null,
+    "pai": "cf_art214",
+    "temas": [
+      "Organização e Regime de Colaboração"
+    ],
+    "versoes": [
+      {
+        "texto": "promoção humanística, científica e tecnológica do País.",
+        "vigenteDesde": "1988-10-05",
+        "vigenteAte": null,
+        "evento": "original",
+        "origem": null,
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": []
+  },
+  {
+    "id": "cf_art214_incvi",
+    "tipo": "inciso",
+    "rotulo": "VI -",
+    "rubrica": null,
+    "pai": "cf_art214",
+    "temas": [
+      "Organização e Regime de Colaboração"
+    ],
+    "versoes": [
+      {
+        "texto": "estabelecimento de meta de aplicação de recursos públicos em educação como proporção do produto interno bruto.",
+        "vigenteDesde": "2009-01-01",
+        "vigenteAte": null,
+        "evento": "incluido",
+        "origem": "Emenda Constitucional nº 59",
+        "vigenciaConfirmada": true,
+        "capturadoEm": "2026-11-14",
+        "fonte": "camara"
+      }
+    ],
+    "observacoes": [
+      "Inciso acrescido pela Emenda Constitucional nº 59, de 2009"
+    ]
+  }
+]

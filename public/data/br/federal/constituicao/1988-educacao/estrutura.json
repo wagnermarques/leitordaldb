@@ -1,0 +1,106 @@
+[
+  {
+    "tipo": "titulo",
+    "rotulo": "TÍTULO VIII",
+    "rubrica": "DA ORDEM SOCIAL",
+    "filhos": [
+      {
+        "tipo": "capitulo",
+        "rotulo": "CAPÍTULO III",
+        "rubrica": "DA EDUCAÇÃO, DA CULTURA E DO DESPORTO",
+        "filhos": [
+          {
+            "tipo": "secao",
+            "rotulo": "Seção I",
+            "rubrica": "Da Educação",
+            "filhos": [
+              {
+                "tipo": "artigo",
+                "rotulo": "Art. 205",
+                "rubrica": null,
+                "id": "cf_art205",
+                "filhos": []
+              },
+              {
+                "tipo": "artigo",
+                "rotulo": "Art. 206",
+                "rubrica": null,
+                "id": "cf_art206",
+                "filhos": []
+              },
+              {
+                "tipo": "artigo",
+                "rotulo": "Art. 207",
+                "rubrica": null,
+                "id": "cf_art207",
+                "filhos": []
+              },
+              {
+                "tipo": "artigo",
+                "rotulo": "Art. 208",
+                "rubrica": null,
+                "id": "cf_art208",
+                "filhos": []
+              },
+              {
+                "tipo": "artigo",
+                "rotulo": "Art. 209",
+                "rubrica": null,
+                "id": "cf_art209",
+                "filhos": []
+              },
+              {
+                "tipo": "artigo",
+                "rotulo": "Art. 210",
+                "rubrica": null,
+                "id": "cf_art210",
+                "filhos": []
+              },
+              {
+                "tipo": "artigo",
+                "rotulo": "Art. 211",
+                "rubrica": null,
+                "id": "cf_art211",
+                "filhos": []
+              },
+              {
+                "tipo": "artigo",
+                "rotulo": "Art. 212",
+                "rubrica": null,
+                "id": "cf_art212",
+                "filhos": []
+              },
+              {
+                "tipo": "artigo",
+                "rotulo": "Art. 212-A",
+                "rubrica": null,
+                "id": "cf_art212_a",
+                "filhos": []
+              },
+              {
+                "tipo": "artigo",
+                "rotulo": "Art. 213",
+                "rubrica": null,
+                "id": "cf_art213",
+                "filhos": []
+              },
+              {
+                "tipo": "artigo",
+                "rotulo": "Art. 214",
+                "rubrica": null,
+                "id": "cf_art214",
+                "filhos": []
+              }
+            ]
+          },
+          {
+            "tipo": "secao",
+            "rotulo": "Seção II",
+            "rubrica": "Da Cultura",
+            "filhos": []
+          }
+        ]
+      }
+    ]
+  }
+]

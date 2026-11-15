@@ -1,0 +1,181 @@
+/* Preferências DUA (Desenho Universal para a Aprendizagem) para leitura jurídica acessível.
+ * As fontes 'Atkinson Hyperlegible Next' e 'OpenDyslexic' são auto-hospedadas
+ * offline pelo pacote fzl-fund-appshell--lit ('virtual:appshell-fonts').
+ */
+
+:root {
+  --leitura-font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  --leitura-font-scale: 1;
+  --leitura-line-height: 1.68;
+  --leitura-letter-spacing: 0em;
+  --leitura-word-spacing: 0em;
+  --leitura-max-width: 72ch;
+
+  --leitura-bg: var(--md-sys-color-background, #ffffff);
+  --leitura-fg: var(--md-sys-color-on-background, #1a1c1e);
+  --leitura-surface: var(--md-sys-color-surface-container-low, #f4f6f9);
+  --leitura-border: var(--md-sys-color-outline-variant, #cfd6e0);
+  --leitura-muted: var(--md-sys-color-on-surface-variant, #44474e);
+  --leitura-accent: var(--md-sys-color-primary, #1f3a5f);
+  --leitura-accent-fg: var(--md-sys-color-on-primary, #ffffff);
+  --leitura-focus-ring: #b85d00;
+}
+
+/* Famílias tipográficas */
+:root[data-leitura-fonte='padrao'] {
+  --leitura-font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+}
+
+:root[data-leitura-fonte='atkinson'] {
+  --leitura-font-family: 'Atkinson Hyperlegible Next', system-ui, sans-serif;
+}
+
+:root[data-leitura-fonte='opendyslexic'] {
+  --leitura-font-family: 'OpenDyslexic', system-ui, sans-serif;
+  --leitura-letter-spacing: 0.03em;
+  --leitura-word-spacing: 0.08em;
+}
+
+:root[data-leitura-fonte='serifa'] {
+  --leitura-font-family: Georgia, 'Liberation Serif', 'Times New Roman', serif;
+}
+
+/* Espaçamento e conforto visual */
+:root[data-leitura-espacamento='normal'] {
+  --leitura-line-height: 1.6;
+}
+
+:root[data-leitura-espacamento='confortavel'] {
+  --leitura-line-height: 1.85;
+  --leitura-letter-spacing: 0.015em;
+}
+
+:root[data-leitura-espacamento='amplo'] {
+  --leitura-line-height: 2.15;
+  --leitura-letter-spacing: 0.03em;
+  --leitura-word-spacing: 0.06em;
+}
+
+/* Temas dedicados de leitura DUA (sobrepõem tokens do Shell quando escolhidos) */
+:root[data-leitura-tema='claro'] {
+  --leitura-bg: #ffffff;
+  --leitura-fg: #14171a;
+  --leitura-surface: #f3f6fa;
+  --leitura-border: #cbd4e1;
+  --leitura-muted: #454f5e;
+  --leitura-accent: #1f3a5f;
+  --leitura-accent-fg: #ffffff;
+  --md-sys-color-background: #ffffff;
+  --md-sys-color-on-background: #14171a;
+  --md-sys-color-surface: #ffffff;
+  --md-sys-color-surface-container-low: #f3f6fa;
+  --md-sys-color-on-surface: #14171a;
+  --md-sys-color-on-surface-variant: #454f5e;
+  --md-sys-color-primary: #1f3a5f;
+  --md-sys-color-on-primary: #ffffff;
+}
+
+:root[data-leitura-tema='sepia'] {
+  --leitura-bg: #f6eedc;
+  --leitura-fg: #2b2118;
+  --leitura-surface: #ede1c8;
+  --leitura-border: #cbb996;
+  --leitura-muted: #5c4b39;
+  --leitura-accent: #7a4212;
+  --leitura-accent-fg: #fffaf0;
+  --md-sys-color-background: #f6eedc;
+  --md-sys-color-on-background: #2b2118;
+  --md-sys-color-surface: #f6eedc;
+  --md-sys-color-surface-container: #ede1c8;
+  --md-sys-color-surface-container-low: #efe5cf;
+  --md-sys-color-on-surface: #2b2118;
+  --md-sys-color-on-surface-variant: #5c4b39;
+  --md-sys-color-primary: #7a4212;
+  --md-sys-color-on-primary: #fffaf0;
+  --md-sys-color-outline-variant: #cbb996;
+}
+
+:root[data-leitura-tema='escuro'] {
+  --leitura-bg: #121519;
+  --leitura-fg: #e8ecf1;
+  --leitura-surface: #1b2028;
+  --leitura-border: #313946;
+  --leitura-muted: #aeb7c4;
+  --leitura-accent: #82b4ff;
+  --leitura-accent-fg: #0b1b30;
+  --md-sys-color-background: #121519;
+  --md-sys-color-on-background: #e8ecf1;
+  --md-sys-color-surface: #121519;
+  --md-sys-color-surface-container: #1b2028;
+  --md-sys-color-surface-container-low: #171b22;
+  --md-sys-color-on-surface: #e8ecf1;
+  --md-sys-color-on-surface-variant: #aeb7c4;
+  --md-sys-color-primary: #82b4ff;
+  --md-sys-color-on-primary: #0b1b30;
+  --md-sys-color-outline-variant: #313946;
+}
+
+:root[data-leitura-tema='alto-contraste-amarelo'] {
+  --leitura-bg: #000000;
+  --leitura-fg: #ffe600;
+  --leitura-surface: #0e0e0e;
+  --leitura-border: #ffe600;
+  --leitura-muted: #fff176;
+  --leitura-accent: #ffe600;
+  --leitura-accent-fg: #000000;
+  --leitura-focus-ring: #00ffff;
+  --md-sys-color-background: #000000;
+  --md-sys-color-on-background: #ffe600;
+  --md-sys-color-surface: #000000;
+  --md-sys-color-surface-container: #0e0e0e;
+  --md-sys-color-surface-container-low: #0a0a0a;
+  --md-sys-color-on-surface: #ffe600;
+  --md-sys-color-on-surface-variant: #fff176;
+  --md-sys-color-primary: #ffe600;
+  --md-sys-color-on-primary: #000000;
+  --md-sys-color-outline-variant: #ffe600;
+}
+
+:root[data-leitura-tema='alto-contraste-branco'] {
+  --leitura-bg: #000000;
+  --leitura-fg: #ffffff;
+  --leitura-surface: #0f0f0f;
+  --leitura-border: #ffffff;
+  --leitura-muted: #e5e5e5;
+  --leitura-accent: #ffffff;
+  --leitura-accent-fg: #000000;
+  --leitura-focus-ring: #ffe600;
+  --md-sys-color-background: #000000;
+  --md-sys-color-on-background: #ffffff;
+  --md-sys-color-surface: #000000;
+  --md-sys-color-surface-container: #0f0f0f;
+  --md-sys-color-surface-container-low: #0a0a0a;
+  --md-sys-color-on-surface: #ffffff;
+  --md-sys-color-on-surface-variant: #e5e5e5;
+  --md-sys-color-primary: #ffffff;
+  --md-sys-color-on-primary: #000000;
+  --md-sys-color-outline-variant: #ffffff;
+}
+
+html,
+body {
+  background-color: var(--leitura-bg);
+  color: var(--leitura-fg);
+  font-family: var(--leitura-font-family);
+}
+
+*:focus-visible {
+  outline: 3px solid var(--leitura-focus-ring, #b85d00);
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

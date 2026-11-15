@@ -1,0 +1,999 @@
+[
+  {
+    "tipo": "titulo",
+    "rotulo": "TÍTULO I",
+    "rubrica": "DA EDUCAÇÃO",
+    "filhos": [
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 1º",
+        "rubrica": null,
+        "id": "ldb_art1",
+        "filhos": []
+      }
+    ]
+  },
+  {
+    "tipo": "titulo",
+    "rotulo": "TÍTULO II",
+    "rubrica": "DOS PRINCÍPIOS E FINS DA EDUCAÇÃO NACIONAL",
+    "filhos": [
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 2º",
+        "rubrica": null,
+        "id": "ldb_art2",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 3º",
+        "rubrica": null,
+        "id": "ldb_art3",
+        "filhos": []
+      }
+    ]
+  },
+  {
+    "tipo": "titulo",
+    "rotulo": "TÍTULO III",
+    "rubrica": "DO DIREITO À EDUCAÇÃO E DO DEVER DE EDUCAR",
+    "filhos": [
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 4º",
+        "rubrica": null,
+        "id": "ldb_art4",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 4º-A",
+        "rubrica": null,
+        "id": "ldb_art4_a",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 5º",
+        "rubrica": null,
+        "id": "ldb_art5",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 5º-A",
+        "rubrica": null,
+        "id": "ldb_art5_a",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 6º",
+        "rubrica": null,
+        "id": "ldb_art6",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 7º",
+        "rubrica": null,
+        "id": "ldb_art7",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 7º-A",
+        "rubrica": null,
+        "id": "ldb_art7_a",
+        "filhos": []
+      }
+    ]
+  },
+  {
+    "tipo": "titulo",
+    "rotulo": "TÍTULO IV",
+    "rubrica": "DA ORGANIZAÇÃO DA EDUCAÇÃO NACIONAL",
+    "filhos": [
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 8º",
+        "rubrica": null,
+        "id": "ldb_art8",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 9º",
+        "rubrica": null,
+        "id": "ldb_art9",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 10",
+        "rubrica": null,
+        "id": "ldb_art10",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 11",
+        "rubrica": null,
+        "id": "ldb_art11",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 12",
+        "rubrica": null,
+        "id": "ldb_art12",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 13",
+        "rubrica": null,
+        "id": "ldb_art13",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 14",
+        "rubrica": null,
+        "id": "ldb_art14",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 14-A",
+        "rubrica": null,
+        "id": "ldb_art14_a",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 15",
+        "rubrica": null,
+        "id": "ldb_art15",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 16",
+        "rubrica": null,
+        "id": "ldb_art16",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 17",
+        "rubrica": null,
+        "id": "ldb_art17",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 18",
+        "rubrica": null,
+        "id": "ldb_art18",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 19",
+        "rubrica": null,
+        "id": "ldb_art19",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 20",
+        "rubrica": null,
+        "id": "ldb_art20",
+        "filhos": []
+      }
+    ]
+  },
+  {
+    "tipo": "titulo",
+    "rotulo": "TÍTULO V",
+    "rubrica": "DOS NÍVEIS E DAS MODALIDADES DE EDUCAÇÃO E ENSINO",
+    "filhos": [
+      {
+        "tipo": "capitulo",
+        "rotulo": "CAPÍTULO I",
+        "rubrica": "DA COMPOSIÇÃO DOS NÍVEIS ESCOLARES",
+        "filhos": [
+          {
+            "tipo": "artigo",
+            "rotulo": "Art. 21",
+            "rubrica": null,
+            "id": "ldb_art21",
+            "filhos": []
+          }
+        ]
+      },
+      {
+        "tipo": "capitulo",
+        "rotulo": "CAPÍTULO II",
+        "rubrica": "DA EDUCAÇÃO BÁSICA",
+        "filhos": [
+          {
+            "tipo": "secao",
+            "rotulo": "Seção I",
+            "rubrica": "Das Disposições Gerais",
+            "filhos": [
+              {
+                "tipo": "artigo",
+                "rotulo": "Art. 22",
+                "rubrica": null,
+                "id": "ldb_art22",
+                "filhos": []
+              },
+              {
+                "tipo": "artigo",
+                "rotulo": "Art. 23",
+                "rubrica": null,
+                "id": "ldb_art23",
+                "filhos": []
+              },
+              {
+                "tipo": "artigo",
+                "rotulo": "Art. 24",
+                "rubrica": null,
+                "id": "ldb_art24",
+                "filhos": []
+              },
+              {
+                "tipo": "artigo",
+                "rotulo": "Art. 25",
+                "rubrica": null,
+                "id": "ldb_art25",
+                "filhos": []
+              },
+              {
+                "tipo": "artigo",
+                "rotulo": "Art. 25-A",
+                "rubrica": null,
+                "id": "ldb_art25_a",
+                "filhos": []
+              },
+              {
+                "tipo": "artigo",
+                "rotulo": "Art. 26",
+                "rubrica": null,
+                "id": "ldb_art26",
+                "filhos": []
+              },
+              {
+                "tipo": "artigo",
+                "rotulo": "Art. 26-A",
+                "rubrica": null,
+                "id": "ldb_art26_a",
+                "filhos": []
+              },
+              {
+                "tipo": "artigo",
+                "rotulo": "Art. 26-B",
+                "rubrica": null,
+                "id": "ldb_art26_b",
+                "filhos": []
+              },
+              {
+                "tipo": "artigo",
+                "rotulo": "Art. 27",
+                "rubrica": null,
+                "id": "ldb_art27",
+                "filhos": []
+              },
+              {
+                "tipo": "artigo",
+                "rotulo": "Art. 28",
+                "rubrica": null,
+                "id": "ldb_art28",
+                "filhos": []
+              }
+            ]
+          },
+          {
+            "tipo": "secao",
+            "rotulo": "Seção II",
+            "rubrica": "Da Educação Infantil",
+            "filhos": [
+              {
+                "tipo": "artigo",
+                "rotulo": "Art. 29",
+                "rubrica": null,
+                "id": "ldb_art29",
+                "filhos": []
+              },
+              {
+                "tipo": "artigo",
+                "rotulo": "Art. 30",
+                "rubrica": null,
+                "id": "ldb_art30",
+                "filhos": []
+              },
+              {
+                "tipo": "artigo",
+                "rotulo": "Art. 31",
+                "rubrica": null,
+                "id": "ldb_art31",
+                "filhos": []
+              }
+            ]
+          },
+          {
+            "tipo": "secao",
+            "rotulo": "Seção III",
+            "rubrica": "Do Ensino Fundamental",
+            "filhos": [
+              {
+                "tipo": "artigo",
+                "rotulo": "Art. 32",
+                "rubrica": null,
+                "id": "ldb_art32",
+                "filhos": []
+              },
+              {
+                "tipo": "artigo",
+                "rotulo": "Art. 33",
+                "rubrica": null,
+                "id": "ldb_art33",
+                "filhos": []
+              },
+              {
+                "tipo": "artigo",
+                "rotulo": "Art. 34",
+                "rubrica": null,
+                "id": "ldb_art34",
+                "filhos": []
+              }
+            ]
+          },
+          {
+            "tipo": "secao",
+            "rotulo": "Seção IV",
+            "rubrica": "Do Ensino Médio",
+            "filhos": [
+              {
+                "tipo": "artigo",
+                "rotulo": "Art. 35",
+                "rubrica": null,
+                "id": "ldb_art35",
+                "filhos": []
+              },
+              {
+                "tipo": "artigo",
+                "rotulo": "Art. 35-A",
+                "rubrica": null,
+                "id": "ldb_art35_a",
+                "filhos": []
+              },
+              {
+                "tipo": "artigo",
+                "rotulo": "Art. 35-B",
+                "rubrica": null,
+                "id": "ldb_art35_b",
+                "filhos": []
+              },
+              {
+                "tipo": "artigo",
+                "rotulo": "Art. 35-C",
+                "rubrica": null,
+                "id": "ldb_art35_c",
+                "filhos": []
+              },
+              {
+                "tipo": "artigo",
+                "rotulo": "Art. 35-D",
+                "rubrica": null,
+                "id": "ldb_art35_d",
+                "filhos": []
+              },
+              {
+                "tipo": "artigo",
+                "rotulo": "Art. 36",
+                "rubrica": null,
+                "id": "ldb_art36",
+                "filhos": []
+              }
+            ]
+          },
+          {
+            "tipo": "secao",
+            "rotulo": "Seção IV-A",
+            "rubrica": "Da Educação Profissional Técnica de Nível Médio",
+            "filhos": [
+              {
+                "tipo": "artigo",
+                "rotulo": "Art. 36-A",
+                "rubrica": null,
+                "id": "ldb_art36_a",
+                "filhos": []
+              },
+              {
+                "tipo": "artigo",
+                "rotulo": "Art. 36-B",
+                "rubrica": null,
+                "id": "ldb_art36_b",
+                "filhos": []
+              },
+              {
+                "tipo": "artigo",
+                "rotulo": "Art. 36-C",
+                "rubrica": null,
+                "id": "ldb_art36_c",
+                "filhos": []
+              },
+              {
+                "tipo": "artigo",
+                "rotulo": "Art. 36-D",
+                "rubrica": null,
+                "id": "ldb_art36_d",
+                "filhos": []
+              }
+            ],
+            "nota": "Seção acrescida pela Lei nº 11.741, de 16/7/2008"
+          },
+          {
+            "tipo": "secao",
+            "rotulo": "Seção V",
+            "rubrica": "Da Educação de Jovens e Adultos",
+            "filhos": [
+              {
+                "tipo": "artigo",
+                "rotulo": "Art. 37",
+                "rubrica": null,
+                "id": "ldb_art37",
+                "filhos": []
+              },
+              {
+                "tipo": "artigo",
+                "rotulo": "Art. 38",
+                "rubrica": null,
+                "id": "ldb_art38",
+                "filhos": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "tipo": "capitulo",
+        "rotulo": "CAPÍTULO III",
+        "rubrica": "DA EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA",
+        "filhos": [
+          {
+            "tipo": "artigo",
+            "rotulo": "Art. 39",
+            "rubrica": null,
+            "id": "ldb_art39",
+            "filhos": []
+          },
+          {
+            "tipo": "artigo",
+            "rotulo": "Art. 40",
+            "rubrica": null,
+            "id": "ldb_art40",
+            "filhos": []
+          },
+          {
+            "tipo": "artigo",
+            "rotulo": "Art. 41",
+            "rubrica": null,
+            "id": "ldb_art41",
+            "filhos": []
+          },
+          {
+            "tipo": "artigo",
+            "rotulo": "Art. 42",
+            "rubrica": null,
+            "id": "ldb_art42",
+            "filhos": []
+          },
+          {
+            "tipo": "artigo",
+            "rotulo": "Art. 42-A",
+            "rubrica": null,
+            "id": "ldb_art42_a",
+            "filhos": []
+          },
+          {
+            "tipo": "artigo",
+            "rotulo": "Art. 42-B",
+            "rubrica": null,
+            "id": "ldb_art42_b",
+            "filhos": []
+          }
+        ],
+        "nota": "Redação dada pela Lei nº 11.741, de 16/7/2008"
+      },
+      {
+        "tipo": "capitulo",
+        "rotulo": "CAPÍTULO IV",
+        "rubrica": "DA EDUCAÇÃO SUPERIOR",
+        "filhos": [
+          {
+            "tipo": "artigo",
+            "rotulo": "Art. 43",
+            "rubrica": null,
+            "id": "ldb_art43",
+            "filhos": []
+          },
+          {
+            "tipo": "artigo",
+            "rotulo": "Art. 44",
+            "rubrica": null,
+            "id": "ldb_art44",
+            "filhos": []
+          },
+          {
+            "tipo": "artigo",
+            "rotulo": "Art. 45",
+            "rubrica": null,
+            "id": "ldb_art45",
+            "filhos": []
+          },
+          {
+            "tipo": "artigo",
+            "rotulo": "Art. 46",
+            "rubrica": null,
+            "id": "ldb_art46",
+            "filhos": []
+          },
+          {
+            "tipo": "artigo",
+            "rotulo": "Art. 47",
+            "rubrica": null,
+            "id": "ldb_art47",
+            "filhos": []
+          },
+          {
+            "tipo": "artigo",
+            "rotulo": "Art. 48",
+            "rubrica": null,
+            "id": "ldb_art48",
+            "filhos": []
+          },
+          {
+            "tipo": "artigo",
+            "rotulo": "Art. 49",
+            "rubrica": null,
+            "id": "ldb_art49",
+            "filhos": []
+          },
+          {
+            "tipo": "artigo",
+            "rotulo": "Art. 50",
+            "rubrica": null,
+            "id": "ldb_art50",
+            "filhos": []
+          },
+          {
+            "tipo": "artigo",
+            "rotulo": "Art. 51",
+            "rubrica": null,
+            "id": "ldb_art51",
+            "filhos": []
+          },
+          {
+            "tipo": "artigo",
+            "rotulo": "Art. 52",
+            "rubrica": null,
+            "id": "ldb_art52",
+            "filhos": []
+          },
+          {
+            "tipo": "artigo",
+            "rotulo": "Art. 53",
+            "rubrica": null,
+            "id": "ldb_art53",
+            "filhos": []
+          },
+          {
+            "tipo": "artigo",
+            "rotulo": "Art. 54",
+            "rubrica": null,
+            "id": "ldb_art54",
+            "filhos": []
+          },
+          {
+            "tipo": "artigo",
+            "rotulo": "Art. 55",
+            "rubrica": null,
+            "id": "ldb_art55",
+            "filhos": []
+          },
+          {
+            "tipo": "artigo",
+            "rotulo": "Art. 56",
+            "rubrica": null,
+            "id": "ldb_art56",
+            "filhos": []
+          },
+          {
+            "tipo": "artigo",
+            "rotulo": "Art. 57",
+            "rubrica": null,
+            "id": "ldb_art57",
+            "filhos": []
+          }
+        ]
+      },
+      {
+        "tipo": "capitulo",
+        "rotulo": "CAPÍTULO V",
+        "rubrica": "DA EDUCAÇÃO ESPECIAL",
+        "filhos": [
+          {
+            "tipo": "artigo",
+            "rotulo": "Art. 58",
+            "rubrica": null,
+            "id": "ldb_art58",
+            "filhos": []
+          },
+          {
+            "tipo": "artigo",
+            "rotulo": "Art. 59",
+            "rubrica": null,
+            "id": "ldb_art59",
+            "filhos": []
+          },
+          {
+            "tipo": "artigo",
+            "rotulo": "Art. 59-A",
+            "rubrica": null,
+            "id": "ldb_art59_a",
+            "filhos": []
+          },
+          {
+            "tipo": "artigo",
+            "rotulo": "Art. 60",
+            "rubrica": null,
+            "id": "ldb_art60",
+            "filhos": []
+          }
+        ]
+      },
+      {
+        "tipo": "capitulo",
+        "rotulo": "CAPÍTULO V-A",
+        "rubrica": "DA EDUCAÇÃO BILÍNGUE DE SURDOS",
+        "filhos": [
+          {
+            "tipo": "artigo",
+            "rotulo": "Art. 60-A",
+            "rubrica": null,
+            "id": "ldb_art60_a",
+            "filhos": []
+          },
+          {
+            "tipo": "artigo",
+            "rotulo": "Art. 60-B",
+            "rubrica": null,
+            "id": "ldb_art60_b",
+            "filhos": []
+          }
+        ],
+        "nota": "Capítulo acrescido pela Lei nº 14.191, de 3/8/2021"
+      }
+    ]
+  },
+  {
+    "tipo": "titulo",
+    "rotulo": "TÍTULO VI",
+    "rubrica": "DOS PROFISSIONAIS DA EDUCAÇÃO",
+    "filhos": [
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 61",
+        "rubrica": null,
+        "id": "ldb_art61",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 62",
+        "rubrica": null,
+        "id": "ldb_art62",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 62-A",
+        "rubrica": null,
+        "id": "ldb_art62_a",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 62-B",
+        "rubrica": null,
+        "id": "ldb_art62_b",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 63",
+        "rubrica": null,
+        "id": "ldb_art63",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 64",
+        "rubrica": null,
+        "id": "ldb_art64",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 65",
+        "rubrica": null,
+        "id": "ldb_art65",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 66",
+        "rubrica": null,
+        "id": "ldb_art66",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 67",
+        "rubrica": null,
+        "id": "ldb_art67",
+        "filhos": []
+      }
+    ]
+  },
+  {
+    "tipo": "titulo",
+    "rotulo": "TÍTULO VII",
+    "rubrica": "DOS RECURSOS FINANCEIROS",
+    "filhos": [
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 68",
+        "rubrica": null,
+        "id": "ldb_art68",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 69",
+        "rubrica": null,
+        "id": "ldb_art69",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 70",
+        "rubrica": null,
+        "id": "ldb_art70",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 71",
+        "rubrica": null,
+        "id": "ldb_art71",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 72",
+        "rubrica": null,
+        "id": "ldb_art72",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 73",
+        "rubrica": null,
+        "id": "ldb_art73",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 74",
+        "rubrica": null,
+        "id": "ldb_art74",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 75",
+        "rubrica": null,
+        "id": "ldb_art75",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 76",
+        "rubrica": null,
+        "id": "ldb_art76",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 77",
+        "rubrica": null,
+        "id": "ldb_art77",
+        "filhos": []
+      }
+    ]
+  },
+  {
+    "tipo": "titulo",
+    "rotulo": "TÍTULO VIII",
+    "rubrica": "DAS DISPOSIÇÕES GERAIS",
+    "filhos": [
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 78",
+        "rubrica": null,
+        "id": "ldb_art78",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 78-A",
+        "rubrica": null,
+        "id": "ldb_art78_a",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 79",
+        "rubrica": null,
+        "id": "ldb_art79",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 79-A",
+        "rubrica": null,
+        "id": "ldb_art79_a",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 79-B",
+        "rubrica": null,
+        "id": "ldb_art79_b",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 79-C",
+        "rubrica": null,
+        "id": "ldb_art79_c",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 80",
+        "rubrica": null,
+        "id": "ldb_art80",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 81",
+        "rubrica": null,
+        "id": "ldb_art81",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 81-A",
+        "rubrica": null,
+        "id": "ldb_art81_a",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 82",
+        "rubrica": null,
+        "id": "ldb_art82",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 83",
+        "rubrica": null,
+        "id": "ldb_art83",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 84",
+        "rubrica": null,
+        "id": "ldb_art84",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 85",
+        "rubrica": null,
+        "id": "ldb_art85",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 86",
+        "rubrica": null,
+        "id": "ldb_art86",
+        "filhos": []
+      }
+    ]
+  },
+  {
+    "tipo": "titulo",
+    "rotulo": "TÍTULO IX",
+    "rubrica": "DAS DISPOSIÇÕES TRANSITÓRIAS",
+    "filhos": [
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 87",
+        "rubrica": null,
+        "id": "ldb_art87",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 87-A",
+        "rubrica": null,
+        "id": "ldb_art87_a",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 88",
+        "rubrica": null,
+        "id": "ldb_art88",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 89",
+        "rubrica": null,
+        "id": "ldb_art89",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 90",
+        "rubrica": null,
+        "id": "ldb_art90",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 90-A",
+        "rubrica": null,
+        "id": "ldb_art90_a",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 91",
+        "rubrica": null,
+        "id": "ldb_art91",
+        "filhos": []
+      },
+      {
+        "tipo": "artigo",
+        "rotulo": "Art. 92",
+        "rubrica": null,
+        "id": "ldb_art92",
+        "filhos": []
+      }
+    ]
+  }
+]
