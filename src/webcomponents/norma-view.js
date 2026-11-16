@@ -27,7 +27,7 @@ import {
 } from '../services/acessibilidade-service.js';
 
 /**
- * Visualizador integral acessível de normas educacionais (LDB e CF/88)
+ * Visualizador integral acessível da LDB (Lei nº 9.394/1996)
  * com filtros por eixo temático, alterações legislativas, salto rápido,
  * grifos pedagógicos, notas pessoais, citação ABNT e leitura em voz alta.
  */

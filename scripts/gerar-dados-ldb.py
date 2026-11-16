@@ -1,14 +1,12 @@
 #!/usr/bin/env python3
 """Gera o banco de dados estruturado do Leitor da LDB (GEPIS/Unesp).
 
-Fontes oficiais utilizadas:
+Fonte oficial utilizada:
 - Lei nº 9.394/1996 (LDB consolidada): Portal da Câmara dos Deputados
-- Constituição Federal de 1988 (Arts. 205 a 214): Portal da Câmara dos Deputados
 
 Saída em public/data/:
 - indice.json
 - br/federal/lei/1996-9394/{norma,estrutura,dispositivos}.json
-- br/federal/constituicao/1988-educacao/{norma,estrutura,dispositivos}.json
 """
 
 from __future__ import annotations
@@ -32,10 +30,6 @@ CAPTURED_DATE = date.today().isoformat()
 LDB_URL = (
     "https://www2.camara.leg.br/legin/fed/lei/1996/"
     "lei-9394-20-dezembro-1996-362578-normaatualizada-pl.html"
-)
-CF88_URL = (
-    "https://www2.camara.leg.br/legin/fed/consti/1988/"
-    "constituicao-1988-5-outubro-1988-322142-normaatualizada-pl.html"
 )
 
 EIXOS_TEMATICOS = [
@@ -268,41 +262,6 @@ def classify_temas_ldb(
     return temas
 
 
-def classify_temas_cf(art_rotulo: str, texto: str) -> list[str]:
-    """Classifica dispositivos dos Arts. 205 a 214 da CF/88 nos 9 eixos."""
-    art_num = int(re.search(r"\d+", art_rotulo).group(0))
-    haystack = strip_accents(texto)
-    temas: list[str] = []
-
-    def add(tema: str) -> None:
-        if tema not in temas:
-            temas.append(tema)
-
-    if art_num in {205, 206, 208, 209}:
-        add("Princípios, Fins e Direito à Educação")
-    if art_num == 207:
-        add("Educação Superior")
-    if art_num == 210:
-        add("Educação Básica e Etapas")
-        add("Modalidades e Diversidade")
-    if art_num in {211, 214}:
-        add("Organização e Regime de Colaboração")
-    if art_num in {212, 213}:
-        add("Financiamento e Recursos")
-    if "especializado" in haystack or "deficiencia" in haystack:
-        add("Educação Especial, Bilíngue e Inclusiva")
-    if "profissionais da educacao" in haystack or "piso salarial" in haystack:
-        add("Profissionais da Educação")
-    if "plano nacional de educacao" in haystack or "fundeb" in haystack:
-        add("Financiamento e Recursos")
-    if "jovens e adultos" in haystack or "indigena" in haystack:
-        add("Modalidades e Diversidade")
-
-    if not temas:
-        add("Princípios, Fins e Direito à Educação")
-    return temas
-
-
 def normalize_header_kind(raw_word: str) -> str:
     """Converte cabeçalho textual em tipo padronizado de divisão."""
     word = strip_accents(raw_word)
@@ -398,10 +357,7 @@ def build_norma_from_blocks(
         evento, vigente_desde, origem = infer_version_meta(note_for_meta, default_date)
 
         tit_rot, cap_rot, sec_rot = current_division_labels()
-        if prefix == "cf":
-            temas = classify_temas_cf(cur_art_id or rotulo, texto)
-        else:
-            temas = classify_temas_ldb(tit_rot, cap_rot, sec_rot, texto, observacoes)
+        temas = classify_temas_ldb(tit_rot, cap_rot, sec_rot, texto, observacoes)
 
         dispositivos.append(
             {
@@ -558,85 +514,6 @@ def parse_ldb(refresh: bool) -> dict[str, Any]:
     }
 
 
-def parse_cf88_educacao(refresh: bool) -> dict[str, Any]:
-    """Processa a Seção I - Da Educação (Arts. 205 a 214) da CF/88."""
-    cache_file = CACHE_DIR / "cf88-educacao-camara.html"
-    if cache_file.exists() and not refresh:
-        raw_slice = cache_file.read_text(encoding="utf-8")
-    else:
-        req = urllib.request.Request(
-            CF88_URL, headers={"User-Agent": "LeitorLDB-GEPIS/1.0"}
-        )
-        with urllib.request.urlopen(req, timeout=30) as resp:
-            full_raw = resp.read().decode("utf-8", errors="replace")
-        tags = list(
-            re.finditer(
-                r"<(?:p|h[1-6])\b[^>]*>(.*?)</(?:p|h[1-6])>",
-                full_raw,
-                flags=re.DOTALL | re.IGNORECASE,
-            )
-        )
-
-        def clean_tag(fragment: str) -> str:
-            t = html.unescape(re.sub(r"<[^>]+>", " ", fragment)).replace("\xa0", " ")
-            return re.sub(r"\s+", " ", t).strip()
-
-        texts = [clean_tag(m.group(1)) for m in tags]
-        s_idx = next(i for i, t in enumerate(texts) if t.startswith("Art. 205."))
-        chap_idx = max(
-            i for i in range(s_idx) if texts[i].upper().startswith("CAPÍTULO III")
-        )
-        e_idx = next(
-            i for i, t in enumerate(texts) if i > s_idx and t.startswith("Art. 215.")
-        )
-        raw_slice = (
-            '<html><head><meta charset="utf-8"></head><body>\n'
-            + full_raw[tags[chap_idx].start() : tags[e_idx].start()]
-            + "\n</body></html>"
-        )
-        CACHE_DIR.mkdir(parents=True, exist_ok=True)
-        cache_file.write_text(raw_slice, encoding="utf-8")
-
-    blocks = extract_clean_blocks(raw_slice)
-    estrutura, dispositivos = build_norma_from_blocks(
-        blocks,
-        prefix="cf",
-        default_date="1988-10-05",
-        fonte="camara",
-        initial_divisions=[("titulo", "TÍTULO VIII", "DA ORDEM SOCIAL")],
-    )
-
-    temas_presentes = [
-        tema
-        for tema in EIXOS_TEMATICOS
-        if any(tema in d["temas"] for d in dispositivos)
-    ]
-
-    norma = {
-        "urn": "urn:lex:br:federal:constituicao:1988-10-05",
-        "nome": "Constituição Federal de 1988 — Da Educação",
-        "sigla": "CF/88 (Arts. 205–214)",
-        "ano": 1988,
-        "ementa": (
-            "Constituição da República Federativa do Brasil de 1988. "
-            "Título VIII, Capítulo III, Seção I — Da Educação (Arts. 205 a 214)."
-        ),
-        "dataPublicacao": "1988-10-05",
-        "fonte": "camara",
-        "urlFonte": CF88_URL,
-        "capturadoEm": CAPTURED_DATE,
-        "categoria": "Constituição Federal",
-        "temas": temas_presentes,
-    }
-
-    return {
-        "caminho": "br/federal/constituicao/1988-educacao",
-        "norma": norma,
-        "estrutura": estrutura,
-        "dispositivos": dispositivos,
-    }
-
-
 def write_json(path: Path, data: Any) -> None:
     """Grava arquivo JSON formatado em UTF-8."""
     path.parent.mkdir(parents=True, exist_ok=True)
@@ -646,15 +523,15 @@ def write_json(path: Path, data: Any) -> None:
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Gera dados estruturados da LDB e CF/88.")
+    parser = argparse.ArgumentParser(description="Gera dados estruturados da LDB.")
     parser.add_argument(
         "--refresh",
         action="store_true",
-        help="Baixa novamente os textos oficiais da Câmara dos Deputados.",
+        help="Baixa novamente o texto oficial da Câmara dos Deputados.",
     )
     args = parser.parse_args()
 
-    normas = [parse_ldb(args.refresh), parse_cf88_educacao(args.refresh)]
+    normas = [parse_ldb(args.refresh)]
 
     indice = []
     for item in normas:

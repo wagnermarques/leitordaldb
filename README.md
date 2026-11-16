@@ -1,12 +1,12 @@
 # Leitor da LDB
 
-Aplicativo Web Progressivo (PWA) de leitura acessível, busca estruturada, estudo pessoal e citação acadêmica da **Lei de Diretrizes e Bases da Educação Nacional (Lei nº 9.394/1996)** e dos dispositivos educacionais da **Constituição Federal de 1988 (Arts. 205 a 214)**.
+Aplicativo Web Progressivo (PWA) de leitura acessível, busca estruturada, estudo pessoal e citação acadêmica da **Lei de Diretrizes e Bases da Educação Nacional (Lei nº 9.394/1996)**.
 
 Desenvolvido no âmbito do **GEPIS/Unesp — Grupo de Estudos e Pesquisas em Inclusão Social**, sob licença livre **AGPL-3.0-or-later**.
 
 ## Recursos Principais
 
-- **Texto integral consolidado e offline**: todos os 9 Títulos da LDB (Art. 1º ao Art. 92, incluindo redações atualizadas, vetos e revogações sinalizadas) e os Arts. 205 a 214 da CF/88 (incluindo o Art. 212-A / FUNDEB).
+- **Texto integral consolidado e offline**: todos os 9 Títulos da LDB (Art. 1º ao Art. 92, incluindo redações atualizadas, vetos e revogações sinalizadas).
 - **9 Eixos Temáticos Pedagógicos**: filtragem imediata por princípios, organização federativa, educação básica, educação profissional, educação superior, educação especial e bilíngue de surdos, modalidades e diversidade, profissionais da educação e financiamento.
 - **Busca Global e Salto Rápido**: pesquisa sem acentos por palavra-chave, número do artigo (`Art. 58`, `Art. 26-A`), número da lei alteradora (`14.945`, `14.191`, `12.796`) ou eixo temático.
 - **Caderno de Estudos Local-First**: grifos em 5 cores com legenda personalizável, notas por dispositivo, favoritos e exportação completa em Markdown (`.md`) armazenados localmente no navegador.
@@ -64,7 +64,7 @@ leitordaldb/
 ├── vite.config.js              # Preset Vite do fzl-fund-appshell--lit
 ├── scripts/
 │   ├── gerar-dados-ldb.py      # Parser oficial da Câmara dos Deputados -> JSONs
-│   └── cache/                  # Cache HTML oficial da LDB e CF/88 (Arts. 205–214)
+│   └── cache/                  # Cache HTML oficial da LDB (Lei nº 9.394/1996)
 ├── public/
 │   ├── data/                   # Dados estruturados estáticos e indice.json
 │   └── icons/                  # Ícones PWA e identidade visual GEPIS/Unesp
@@ -92,5 +92,4 @@ leitordaldb/
 ## Fontes Oficiais
 
 - Portal da Câmara dos Deputados — Lei nº 9.394/1996 (Texto consolidado atualizado)
-- Portal da Câmara dos Deputados — Constituição Federal de 1988 (Título VIII, Capítulo III, Seção I — Da Educação)
 - Presidência da República / Planalto, LexML Brasil e Conselho Nacional de Educação (CNE)

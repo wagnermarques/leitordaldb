@@ -67,9 +67,5 @@ export function formatarCitacaoABNT(norma, disp = null) {
   const dispositivo = disp?.rotulo ? ` ${disp.rotulo}.` : '';
   const url = norma.urlFonte ? ` Disponível em: ${norma.urlFonte}.` : '';
 
-  if ((norma.categoria || '').toLowerCase().includes('constitui')) {
-    return `BRASIL. [Constituição (1988)]. Constituição da República Federativa do Brasil de 1988.${dispositivo} Brasília, DF: Senado Federal, 1988.${url} Acesso em: ${acesso}.`;
-  }
-
   return `BRASIL. ${norma.nome} (${norma.sigla}). ${norma.ementa || ''}${dispositivo} Brasília, DF: Presidência da República, ${norma.ano || 1996}.${url} Acesso em: ${acesso}.`.replace(/\.\./g, '.');
 }

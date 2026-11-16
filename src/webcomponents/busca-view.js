@@ -1,7 +1,7 @@
 import { LitElement, html, css } from 'lit';
 import { EIXOS_TEMATICOS, buscarEmTodasNormas, normalizarTexto } from '../services/dados-service.js';
 
-const SUGESTOES = ['Art. 58', '14.945', '14.191', 'Educação infantil', 'Piso salarial', 'Fundeb'];
+const SUGESTOES = ['Art. 58', '14.945', '14.191', 'Educação infantil', 'Piso salarial', 'Educação especial'];
 
 /**
  * Busca global por palavra-chave, artigo, lei alteradora ou eixo temático.
@@ -228,7 +228,7 @@ export class BuscaView extends LitElement {
     );
 
     return html`
-      <h1>Busca no Acervo da LDB e CF/88</h1>
+      <h1>Busca na LDB</h1>
 
       <form class="panel" @submit=${this._submeter} role="search">
         <div class="form-grid">
@@ -301,7 +301,7 @@ export class BuscaView extends LitElement {
           `
         : html`
             <p class="summary">
-              Informe uma palavra, artigo ou selecione um eixo temático para pesquisar em toda a LDB e CF/88.
+              Informe uma palavra, artigo ou selecione um eixo temático para pesquisar em toda a LDB.
             </p>
           `}
 

@@ -74,8 +74,7 @@ export class SobreView extends LitElement {
           O <strong>Leitor da LDB</strong> é um aplicativo web progressivo (PWA)
           gratuito e de código aberto voltado à leitura acessível, busca
           estruturada, estudo pessoal e citação acadêmica da
-          <strong>Lei de Diretrizes e Bases da Educação Nacional (Lei nº 9.394/1996)</strong>
-          em conjunto com a <strong>Constituição Federal de 1988 (Arts. 205 a 214)</strong>.
+          <strong>Lei de Diretrizes e Bases da Educação Nacional (Lei nº 9.394/1996)</strong>.
         </p>
       </div>
 

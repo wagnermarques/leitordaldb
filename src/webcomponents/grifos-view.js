@@ -317,7 +317,7 @@ export class GrifosView extends LitElement {
             <div class="panel">
               <p style="margin:0;">
                 Nenhum grifo ou nota encontrado neste filtro. Selecione qualquer
-                dispositivo na leitura da LDB ou CF/88 para grifar ou anotar.
+                dispositivo na leitura da LDB para grifar ou anotar.
               </p>
             </div>
           `

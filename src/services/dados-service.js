@@ -1,5 +1,5 @@
 /**
- * Serviço de leitura, indexação e busca do acervo legislativo da LDB e CF/88.
+ * Serviço de leitura, indexação e busca da LDB (Lei nº 9.394/1996).
  */
 
 export const EIXOS_TEMATICOS = [

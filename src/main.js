@@ -80,11 +80,6 @@ createAppShell({
             icon: 'menu_book',
             href: '#/norma/br/federal/lei/1996-9394',
           },
-          {
-            label: 'CF/88 — Arts. 205–214',
-            icon: 'gavel',
-            href: '#/norma/br/federal/constituicao/1988-educacao',
-          },
           { label: 'Busca Global', icon: 'search', href: href('busca') },
           { label: 'Grifos e Notas', icon: 'bookmarks', href: href('grifos') },
           { label: 'Sobre o Projeto', icon: 'info', href: href('sobre') },

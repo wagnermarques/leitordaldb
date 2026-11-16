@@ -41,8 +41,8 @@ export class TextosIntegraisNav extends LitElement {
 
   render() {
     return html`
-      <div class="subtitulo">Normas do Acervo</div>
-      <md-list aria-label="Textos integrais disponíveis">
+      <div class="subtitulo">Texto Integral</div>
+      <md-list aria-label="Texto integral disponível">
         ${this._indice.map(
           (item) => html`
             <md-list-item type="link" href=${`#/norma/${item.caminho}`}>

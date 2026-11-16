@@ -262,14 +262,14 @@ export class HomeView extends LitElement {
           <input
             class="search-input"
             type="search"
-            aria-label="Buscar na LDB e CF/88 por palavra-chave, artigo ou lei alteradora"
+            aria-label="Buscar na LDB por palavra-chave, artigo ou lei alteradora"
             placeholder="Busque por termo, artigo (ex.: Art. 58, Art. 26-A) ou lei alteradora (ex.: 14.945)…"
             .value=${this._busca}
             @input=${(e) => {
               this._busca = e.target.value;
             }}
           />
-          <button type="submit" class="btn btn-primary">Buscar no Acervo</button>
+          <button type="submit" class="btn btn-primary">Buscar na LDB</button>
         </form>
 
         <div class="cta-row">
@@ -281,9 +281,6 @@ export class HomeView extends LitElement {
             href="#/norma/br/federal/lei/1996-9394?alterados=1"
           >
             Alterações Legislativas
-          </a>
-          <a class="btn" href="#/norma/br/federal/constituicao/1988-educacao">
-            CF/88 (Arts. 205–214)
           </a>
           <a class="btn" href="#/grifos">
             Grifos e Notas (${this._qtdGrifos + this._qtdNotas})
@@ -326,7 +323,7 @@ export class HomeView extends LitElement {
       </section>
 
       <section aria-labelledby="sec-acervo">
-        <h2 id="sec-acervo">Textos Integrais do Acervo</h2>
+        <h2 id="sec-acervo">Texto Integral</h2>
         <div class="acervo-grid">
           ${this._indice.map(
             (item) => html`
